@@ -3,7 +3,7 @@
   </head>
   <body>
   <header class="header">
-<a href="index.php">
+<a>
   <img id="logo" src="img/logo.jpg" alt="">
 </a>
 </header>

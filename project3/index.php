@@ -9,6 +9,12 @@
 </head>
 <body>
 <?php include 'navbar.php'; ?>
-
+<video id="ag-video" poster="video-poster.jpg" autoplay loop>
+    <source src="img/achtergrondvideo.mp4" type="video/mp4">
+    <source src="img/achtergrondvideo.webm" type="video/webm">
+    <source src="img/achtergrondvideo.ogv" type="video/ogg">
+    Uw browser ondersteunt deze video tag niet..
+  </video>
+<div id="content"></div>
 </body>
 </html>
