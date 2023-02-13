@@ -27,8 +27,8 @@ body {
   font-size: 100px;
 }
 #logo{
-  height: 100px;
-  width: 100px;
+  height: 130px;
+  width: 130px;
   position: absolute;
   z-index: 2;
   }
@@ -76,19 +76,4 @@ body {
     padding: 5px;
     color: #ffde59;
   }
-  #ag-video {
-    position: absolute;
-    top: 10%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    z-index: -100;
-    transform: translateX(-50%) translateY(-50%);
-  }
-  
-  #content {
-    position: relative;
-    z-index: 1;
-  }
+ 
