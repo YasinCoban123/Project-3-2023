@@ -9,5 +9,6 @@
 </head>
 <body>
 <?php include 'navbar.php'; ?>
+<section class=""
 </body>
 </html>

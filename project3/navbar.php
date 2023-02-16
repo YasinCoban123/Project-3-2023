@@ -4,7 +4,7 @@
   <body>
   <header class="header">
 <a>
-  <img id="logo" src="img/logo.jpg" alt="">
+  <img id="logo" src="img/schoenreus logo.png" alt="">
 </a>
 </header>
 <nav class="nav">
