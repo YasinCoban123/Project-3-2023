@@ -9,6 +9,18 @@
 </head>
 <body>
 <?php include 'navbar.php'; ?>
-<section class=""
+<div class="contact">
+  <div class="contact-box">
+    <div class="left"></div>
+    <div class="right">
+      <h2 id="contacth2">Contact</h2>
+      <input type="text" class="field" placeholder="Naam en achternaam">
+      <input type="text" class="field" placeholder="Email">
+      <input type="text" class="field" placeholder="Telefoonnummer">
+      <textarea placeholder="Uw bericht" class="field"></textarea>
+      <button class="contactbtn">Verstuur</button>
+    </div>
+  </div>
+</div>
 </body>
 </html>
