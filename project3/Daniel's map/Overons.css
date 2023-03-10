@@ -1,0 +1,83 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(255, 255, 255);
+}
+h1 {
+  font-family: "Pattaya", sans-serif;
+}
+a {
+  text-decoration: none;
+}
+header {
+  background-color: #1a222c;
+}
+nav {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-end;
+  width: 90%;
+  margin: auto;
+  height: 13vh;
+}
+nav ul {
+  display: flex;
+}
+nav li {
+  list-style-type: none;
+  padding: 0 3rem 0 3rem;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Sec1 {
+  background-color: rgba(140, 255, 161, 0.362);
+}
+
+.Sec2 {
+  background-color: rgb(255, 163, 163, 0.5);
+}
+
+.Sec3 {
+  background-color: rgb(103, 151, 255, 0.5);
+}
+
+.Sec4 {
+  background-color: rgba(240, 253, 144, 0.53);
+}
+.Black {
+  color: #1a222c;
+}
+.OverOnsSection {
+  display: flex;
+  justify-content: center;
+}
+.OverOnsArticle {
+  color: #1a222c;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  padding: 39vh 0px 38vh 0px;
+}
+footer {
+  background-color: #1a222c;
+}
+footer li {
+  display: flex;
+  justify-content: center;
+  width: 20%;
+}
+.f_menu {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 60%;
+  margin: auto;
+  height: 10vh;
+}
