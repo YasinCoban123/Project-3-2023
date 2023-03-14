@@ -15,8 +15,9 @@
     <source src="img/achtergrondvideo.ogv" type="video/ogg">
 	</video>
   -->
-  <div class="achtergrondfoto">
-  <div class="sockdart"><h2>De Nike Sock Dart Premium</h2><p>Elegant en Comfortabel</p><a href="#">Koop hier</a></div>
+  
+  <div class="achtergrondfoto"><img src="img/achtergrondfoto2.png" class="schoenen_preview">
+    <div class="sockdart"><h2>De Nike Sock Dart Premium</h2><p>Elegant en Comfortabel</p><a href="#">Koop hier</a></div>
   </div>
 </body>
 </html>
