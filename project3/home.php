@@ -16,6 +16,7 @@
 	</video>
   -->
   <div class="achtergrondfoto">
-  <div class="sockdart"><h2>De Nike Sock Dart Premium</h2><p>Elegant en Comfortabel</p><a href="#">Koop hier</a></div></div>
+  <div class="sockdart"><h2>De Nike Sock Dart Premium</h2><p>Elegant en Comfortabel</p><a href="#">Koop hier</a></div>
+  </div>
 </body>
 </html>
