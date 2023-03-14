@@ -4,7 +4,7 @@
   <body>
   <header class="header">
 <a>
-  <img id="logo" src="img/schoenreus logo.png" alt="">
+  <a href="home.php"><img id="logo" src="img/schoenreus logo.png" alt=""></a>
 </a>
 </header>
 <nav class="nav">
