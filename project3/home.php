@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<?php include 'navbar.php'; ?>
+  <?php include 'navbar.php'; ?>
 <!--<video id="achtergrondvideo" autoplay muted loop>
 		<source src="img/achetrgrondvifeo.mp4" type="video/mp4">
 		<source src="img/achtergrondvideo.webm" type="video/webm">
