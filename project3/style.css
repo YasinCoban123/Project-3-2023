@@ -8,6 +8,7 @@
   background-color: #424040;
   box-sizing: border-box;
 }
+
 #logo {
   height: 110px;
   width: 110px;
@@ -198,13 +199,13 @@ textarea {
 
 
 footer {
-  position: absolute;
-  bottom: 0;
+  position: relative;
+  bottom: 0%;
   display: flex;
   justify-content: center;
   padding-top: 5px;
   height: 9vh;
   width: 100%;
-  background: #08372a;
+  background: #222222;
   color: white;
 }
