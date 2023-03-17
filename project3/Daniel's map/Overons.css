@@ -29,7 +29,7 @@ nav li {
   list-style-type: none;
   padding: 0 3rem 0 3rem;
 }
-main {
+.OverOnsMain {
   display: flex;
   flex-direction: column;
   align-items: center;

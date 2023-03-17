@@ -8,6 +8,8 @@
   box-sizing: border-box;
 }
 
+
+
 #logo {
   height: 110px;
   width: 110px;
@@ -191,7 +193,57 @@ textarea {
     margin-right: 700px;
   }
 
+  .overons img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    margin: 0 auto;
+}
 
+  .overons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+  .overons p {
+    max-width: 70%;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+  .overons h2 {
+    color: white;
+    font-size: 5vh;
+    display: flex;
+}
+  .overons div {
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.OverOnsP{
+  margin-top: 39vh;
+}
+.OverOnsH{
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+}
+.OverOnsMain {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.OverOnsArticle {
+  color: #1a222c;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  padding: 39vh 0px 38vh 0px;
+}
 
 /* Diego's CSS code (292 - ). */
 

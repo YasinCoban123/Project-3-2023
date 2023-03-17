@@ -19,7 +19,7 @@
       </nav>
       </header>
 
-      <main>
+      <main class="OverOnsMain">
         <section class="OverOnsSection Sec1">
           <article class="OverOnsArticle">
           <h2 class="Black">Eco-vriendelijkheid</h2>
