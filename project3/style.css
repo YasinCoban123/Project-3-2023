@@ -247,20 +247,40 @@ textarea {
     flex-wrap: wrap;
 }
   .overons p {
-    max-width: 500px;
+    max-width: 50%;
     color: white;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
   .overons h2 {
     color: white;
-    font-size: 30px;
+    font-size: 5vh;
 }
   .overons div {
-    width: 50%;
-    padding: 20px;
+    display: flex;
 }
-
-
+.OverOnsP{
+  margin-top: 39vh;
+}
+.OverOnsH{
+  display: flex;
+  justify-content: center;
+}
+.OverOnsMain {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.OverOnsSection {
+  display: flex;
+  justify-content: center;
+}
+.OverOnsArticle {
+  color: #1a222c;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  padding: 39vh 0px 38vh 0px;
+}
 
 /* Diego's CSS code (292 - ). */
 
