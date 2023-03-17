@@ -192,34 +192,6 @@ textarea {
     margin-right: 700px;
   }
 
-  .overons img {
-    width: 100%;
-    max-width: 200px;
-    height: auto;
-    margin: 0 auto;
-}
-
-  .overons {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-}
-  .overons p {
-    max-width: 500px;
-    color: white;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
-}
-  .overons h2 {
-    color: white;
-    font-size: 30px;
-}
-  .overons div {
-    width: 50%;
-    padding: 20px;
-}
-
 
 
 /* Diego's CSS code (292 - ). */
