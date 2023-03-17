@@ -17,6 +17,7 @@
       <input type="text" class="field" placeholder="Naam en achternaam">
       <input type="text" class="field" placeholder="Email">
       <input type="text" class="field" placeholder="Telefoonnummer">
+      <input type="text" class="field" placeholder="Onderwerp">
       <textarea placeholder="Uw bericht" class="field"></textarea>
       <button class="contactbtn">Verstuur</button>
     </div>
