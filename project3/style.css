@@ -9,6 +9,11 @@
   box-sizing: border-box;
 }
 
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> a146ad9ee3983aa10b3acd9fad3def6ca20a7da5
 #logo {
   height: 110px;
   width: 110px;
@@ -74,10 +79,10 @@ li a:hover:not(.active) {
 
 
 .contact {
-  margin-top: 100px;
+  margin-top: 10px;
 	position: relative;
 	width: 100%;
-	height: 100%;
+	height: 130%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
