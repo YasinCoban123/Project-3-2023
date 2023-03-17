@@ -11,7 +11,7 @@
     <?php include 'navbar.php'; ?>
     
     <footer>
-        asdjhfgafsyfiuhjau
+        abdel is kapot mooi
     </footer>
 </body>
 </html>
