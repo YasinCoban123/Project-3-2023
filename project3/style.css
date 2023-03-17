@@ -9,16 +9,6 @@
   box-sizing: border-box;
 }
 
-
-:root {
-  --bodyBack: #ffeaed;
-  --textColor: #1b2741;
-  --starColor: #f67034;
-  --sectionBack: #f7f6f9;
-}
-
-
-
 #logo {
   height: 110px;
   width: 110px;
@@ -64,14 +54,8 @@ li a:hover:not(.active) {
   background: #000000;
 }
 
-.schoenen_preview {
-  height: 74vh;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .sockdart {
+    font-family: Georgia;
     margin: 0;
     padding: 0;
     position: absolute;
