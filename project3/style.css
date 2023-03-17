@@ -10,14 +10,6 @@
 }
 
 
-:root {
-  --bodyBack: #ffeaed;
-  --textColor: #1b2741;
-  --starColor: #f67034;
-  --sectionBack: #f7f6f9;
-}
-
-
 
 #logo {
   height: 110px;
@@ -111,10 +103,10 @@ li a:hover:not(.active) {
 
 
 .contact {
-  margin-top: 100px;
+  margin-top: 10px;
 	position: relative;
 	width: 100%;
-	height: 100%;
+	height: 130%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
