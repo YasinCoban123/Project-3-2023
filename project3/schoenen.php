@@ -9,5 +9,9 @@
 </head>
 <body>
     <?php include 'navbar.php'; ?>
+    
+    <footer>
+        asdjhfgafsyfiuhjau
+    </footer>
 </body>
 </html>
