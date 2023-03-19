@@ -68,7 +68,13 @@ li a:hover:not(.active) {
     text-align: center;
 }
   
-
+/* Schoenen pagina */
+.asidefilter {
+  width: 20%;
+  height: 400px;
+  background-color: white;
+  color: black;
+}
 
 /* Contact pagina */
 

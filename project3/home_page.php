@@ -24,8 +24,6 @@
     </div>
   </div>
     
-  <footer>
-    <p>breeeeeeeeeeeeeeeehhh</p>
-  </footer>
+<?php include 'footer.php'; ?>
 </body>
 </html>
