@@ -8,10 +8,8 @@
   <title>Schoenen</title>
 </head>
 <body>
-    <?php include 'navbar.php'; ?>
-    
-    <footer>
-        abdel is kapot mooi
-    </footer>
+  <?php include 'navbar.php'; ?>
+<aside class="asidefilter">
+</aside>
 </body>
 </html>
