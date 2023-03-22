@@ -69,11 +69,99 @@ li a:hover:not(.active) {
 }
   
 /* Schoenen pagina */
-.asidefilter {
-  width: 20%;
-  height: 400px;
-  background-color: white;
-  color: black;
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+aside {
+  flex-basis: 250px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+aside h2 {
+  margin-top: 0;
+}
+
+aside label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+aside select {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+aside input[type="range"] {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+aside button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+main {
+  flex-grow: 1;
+  padding: 20px;
+}
+
+ul.products {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 20px;
+}
+
+li {
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+li img {
+  width: 100px;
+  height: 100;
+  margin-bottom: 10px;
+}
+
+li h3 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+li p {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+li span {
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
 }
 
 /* Contact pagina */
