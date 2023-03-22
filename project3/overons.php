@@ -39,13 +39,20 @@
         <section class="overons">
           <article class="OverOnsArticle">
           <h2 class="OverOnsH">Geschiedenis</h2>
-            <p class="OverOnsP">Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus omnis sapiente architecto eius, dicta totam. Ipsam beatae delectus vero eius, repellat asperiores iusto pariatur officiis. Aliquam dolores laborum libero molestias! Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus omnis sapiente architecto eius, dicta totam. Ipsam beatae delectus vero eius, repellat asperiores iusto pariatur officiis. Aliquam dolores laborum libero molestias! Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus omnis sapiente architecto eius, dicta totam. Ipsam beatae delectus vero eius, repellat asperiores iusto pariatur officiis. Aliquam dolores laborum libero molestias! Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus omnis sapiente architecto eius, dicta totam. Ipsam beatae delectus vero eius, repellat asperiores iusto pariatur officiis. Aliquam dolores laborum libero molestias! Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus omnis sapiente architecto eius, dicta totam. Ipsam beatae delectus vero eius, repellat asperiores iusto pariatur officiis. Aliquam dolores laborum libero molestias! </p>          
+            <p class="OverOnsP">SchoenReus is vanaf de allereerste dag - ruim 90 jaar geleden - een schoenenbedrijf en waar mensen bijzonder belangrijk zijn. Het was crisistijd toen Diego Ballestero Rietveldt,  Aryan Bhagwat, Yasin Coban, Daniel Kuiper, Berkay Onal in 1929 hun eerste schoenenwinkel opende aan de Hoogstraat in Rotterdam. ze hadden een droom: zorgen dat iedereen goede, mooie schoenen kon dragen zonder hoge kosten. daarvoor werkte ze hard en verzonen ze slimme winkeloplossingen. Het meest bijzonder was de manier waarop er werd gewerkt: samen werken voor de klant. En samen was iedereen bij SchoenReus een familie.</p>          
           </article>
         </section>
         <section class="overons">
           <article class="OverOnsArticle">
           <h2 class="OverOnsH">Doelstellingen</h2>
-            <p class="OverOnsP">Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus omnis sapiente architecto eius, dicta totam. Ipsam beatae delectus vero eius, repellat asperiores iusto pariatur officiis. Aliquam dolores laborum libero molestias! Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus omnis sapiente architecto eius, dicta totam. Ipsam beatae delectus vero eius, repellat asperiores iusto pariatur officiis. Aliquam dolores laborum libero molestias! Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus omnis sapiente architecto eius, dicta totam. Ipsam beatae delectus vero eius, repellat asperiores iusto pariatur officiis. Aliquam dolores laborum libero molestias! Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus omnis sapiente architecto eius, dicta totam. Ipsam beatae delectus vero eius, repellat asperiores iusto pariatur officiis. Aliquam dolores laborum libero molestias! Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus omnis sapiente architecto eius, dicta totam. Ipsam beatae delectus vero eius, repellat asperiores iusto pariatur officiis. Aliquam dolores laborum libero molestias! </p>          
+            <p class="OverOnsP">“Met schoenen die aan de voet passen, maar niet in iemands hoofd, kun je iemand doodongeluk maken. Naar mijn mening zelfs ongelukkiger dan met schoenen die pijn doen. Daarom doen we ons uiterste best om te zorgen dat schoenen elk seizoen mooier worden. De korte communicatielijnen met de meeste van onze fabrikanten en hun open oor helpt enorm om de kloof tussen hippe en goede schoenen elk seizoen kleiner te maken.”</p></br>
+            </br><h2>Toekomst</h2>
+            <div>
+            <p>
+            “Sinds 2008 ervaren we dat onze klanten kritischer en veeleisender worden. Als de klant voorheen niet kon kiezen, was het vaak zo dat hij zei: “Ik neem ze allebei – of alle drie.” Die tijd is echt voorbij.
+            Bij jonge ouders zien we steeds vaker dat ze meerdere winkels af gaan en bij elke zaak een paar schoenen apart laten zetten om even na te denken. Ouders die op zaterdag van ’s morgens 10:00 tot ’s avonds 17:00 uur met hun kleuter op pad zijn om de mooiste schoenen te vinden zijn geen uitzondering meer, sommige doen dit meerdere zaterdagen achter elkaar voordat ze uiteindelijk een beslissing nemen.
+            Ons antwoord op deze ontwikkeling is ons focussen op waar we goed in zijn: het grootste assortiment dames-, heren- en kinderschoenen in de wijde omtrek, voeten op blijven meten, eerlijk en deskundig advies geven en zorgen voor een scherpe prijsstelling. En voor wie extra op de prijs wil letten hebben we tegenover onze winkel een outlet.”</p>   
+            <div>       
           </article>
         </section>
         <section class="overons">
@@ -72,7 +79,7 @@
   </div>
   </article>
   <article class="Daniel, OverOnsArticle">
-    <h2>Daniel Kuipers</h2>
+    <h2>Daniel Kuiper</h2>
     <div>
     <p>According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible.</p>
   <img src="img/kummma.jpeg" alt="">
