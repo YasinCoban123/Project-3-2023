@@ -7,8 +7,8 @@
   <title>Document</title>
 </head>
 <body>
-<footer>
-    <p>breeeeeeeeeeeeeeeehhh</p>
+  <footer>
+    <p id="footer tekst">breeeeeeeeeeeeeeeehhh</p>
   </footer>
 </body>
 </html>
