@@ -12,21 +12,19 @@
   height: 110px;
   width: 110px;
   position: absolute;
+  left: 1%;
 }
 
 nav {
   display: flex;
   height: 110px;
-  width: 100%;
+
   align-items: center;
+
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 20px;
 }
 
-.nav_container {
-  justify-content: space-around;
-  align-items: center;
-}
 
 
 ul {
@@ -37,10 +35,10 @@ ul {
 }
 
 li a {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
   display: block;
   color: white;
   text-decoration: none;
-  padding-right: 8rem;
 }
 
 li a:hover:not(.active) {
@@ -155,7 +153,7 @@ ul.products {
 }
 
 li {
-  background-color: #fff;
+
   padding: 20px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }

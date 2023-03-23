@@ -32,7 +32,6 @@
 			<button>Apply Filters</button>
 		</aside>
 		
-
 		<main>
 			<ul class="products">
 				<li>
