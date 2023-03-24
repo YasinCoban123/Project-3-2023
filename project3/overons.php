@@ -95,7 +95,7 @@
             heren- en kinderschoenen in de wijde omtrek, voeten op blijven meten, eerlijk en deskundig advies geven en
             zorgen voor een scherpe prijsstelling. En voor wie extra op de prijs wil letten hebben we tegenover onze
             winkel een outlet.”</p>
-          <div>
+</div>
       </article>
     </section>
     <section class="overons">
@@ -147,7 +147,6 @@
       </article>
     </section>
   </main>
-  </div>
   </section>
   <?php include 'footer.php'; ?>
 </body>
