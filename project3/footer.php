@@ -8,7 +8,7 @@
 </head>
 <body>
   <footer>
-    <p id="footer tekst">breeeeeeeeeeeeeeeehhh</p>
+    <p id="footer_tekst">breeeeeeeeeeeeeeeehhh</p>
   </footer>
 </body>
 </html>

@@ -4,7 +4,7 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: #424040;
+  background-color: #575454;
   box-sizing: border-box;
 }
 
@@ -88,7 +88,11 @@ li a:hover:not(.active) {
   height: 150px;
 }
   
+
+
 /* Schoenen pagina */
+
+
 
 header {
   background-color: #333;
@@ -104,11 +108,11 @@ section {
 
 aside {
   flex-basis: 250px;
-  background-color: #f2f2f2;
+  background-color: #1f1d1d;
   padding: 20px;
 }
 
-aside h2 {
+aside #h2 {
   margin-top: 0;
 }
 
@@ -138,12 +142,12 @@ aside button {
   cursor: pointer;
 }
 
-main {
+.producten_main {
   flex-grow: 1;
   padding: 20px;
 }
 
-ul.products {
+.products {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -152,37 +156,26 @@ ul.products {
   grid-gap: 20px;
 }
 
-li {
+.section_shoes {
 
   padding: 20px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
 
-li img {
+.section_shoes .producten {
   width: 100px;
   height: 100;
   margin-bottom: 10px;
 }
 
-li h3 {
+.section_shoes #h3 {
   margin-top: 0;
   margin-bottom: 5px;
   font-size: 20px;
   font-weight: bold;
 }
 
-li p {
-  margin-top: 0;
-  margin-bottom: 10px;
-  font-size: 16px;
-}
 
-li span {
-  display: block;
-  font-size: 20px;
-  font-weight: bold;
-  color: #333;
-}
 
 /* Contact pagina */
 
@@ -340,6 +333,7 @@ textarea {
 
 .OverOnsP {
   margin-top: 5vh;
+  color: white;
 }
 .OverOnsH {
   display: flex;
