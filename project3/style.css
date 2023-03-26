@@ -70,45 +70,41 @@ li a:hover:not(.active) {
   
 /* Schoenen pagina */
 
-header {
-  background-color: #333;
-  color: #fff;
-  padding: 20px;
-  text-align: center;
-}
 
-section {
+.schoenen {
   display: flex;
   flex-wrap: wrap;
 }
 
-aside {
+.schoenfilter {
   flex-basis: 250px;
   background-color: #f2f2f2;
   padding: 20px;
 }
 
-aside h2 {
+.schoenfilter h2 {
   margin-top: 0;
+  color: white;
+  background-color: white;
 }
 
-aside label {
+.schoenfilter label {
   display: block;
   margin-bottom: 5px;
 }
 
-aside select {
+.schoenfilter select {
   width: 100%;
   padding: 5px;
   margin-bottom: 10px;
 }
 
-aside input[type="range"] {
+.schoenfilter input[type="range"] {
   width: 100%;
   margin-bottom: 10px;
 }
 
-aside button {
+.schoenfilter button {
   display: block;
   width: 100%;
   padding: 10px;
@@ -118,7 +114,7 @@ aside button {
   cursor: pointer;
 }
 
-main {
+.schoenplek {
   flex-grow: 1;
   padding: 20px;
 }
@@ -132,36 +128,36 @@ ul.products {
   grid-gap: 20px;
 }
 
-li {
+ul.products li {
   background-color: #fff;
   padding: 20px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
 
-li img {
+ul.products li img {
   width: 100px;
   height: 100;
   margin-bottom: 10px;
 }
 
-li h3 {
+ul.products li h3 {
   margin-top: 0;
   margin-bottom: 5px;
   font-size: 20px;
   font-weight: bold;
 }
 
-li p {
+ul.products li p {
   margin-top: 0;
   margin-bottom: 10px;
   font-size: 16px;
 }
 
-li span {
+ul.products li span {
   display: block;
   font-size: 20px;
   font-weight: bold;
-  color: #333;
+  color: #ffffff;
 }
 
 /* Contact pagina */
@@ -342,9 +338,9 @@ textarea {
 /* Diego's CSS code (292 - ). */
 
 
-
+/* Footer */
 footer {
-  position: relative;
+  position: fixed;
   bottom: 0%;
   display: flex;
   justify-content: center;

@@ -9,8 +9,8 @@
 </head>
 <body>
   <?php include 'navbar.php'; ?>
-  <section>
-		<aside>
+  <section class="schoenen">
+		<aside class="schoenfilter">
 			<h2>Filters</h2>
 			<label for="brand">Brand</label>
 			<select id="brand" name="brand">
@@ -33,7 +33,7 @@
 		</aside>
 		
 
-		<main>
+		<main class="schoenplek">
 			<ul class="products">
 				<li>
 					<img src="img/nikesockdartprem.webp">
@@ -92,7 +92,8 @@
 			</ul>
 		</main>
 	</section>
-<?php include 'footer.php'; ?>
 <script src="script.js"></script>
+<?php include 'footer.php'; ?>
+
 </body>
 </html>
