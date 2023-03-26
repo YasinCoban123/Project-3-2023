@@ -1,20 +1,19 @@
-/* Yasin's CSS code (5 - 284). */
-
-
 * {
   margin: 0;
   padding: 0;
-  background-color: #424040;
-  box-sizing: border-box;
+  background: #575454;
 }
-
-
 
 #logo {
   height: 110px;
   width: 110px;
   position: absolute;
+  left: 1%;
 }
+
+
+/* Nav */
+
 
 nav {
   display: flex;
@@ -33,43 +32,80 @@ ul {
 }
 
 li a {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
   display: block;
   color: white;
   text-decoration: none;
-  padding-right: 8rem;
 }
 
 li a:hover:not(.active) {
   background: #2b2929;
 }
 
- /*#achtergrondvideo {
+/*#achtergrondvideo {
   position: absolute;
-   height: 500px;
-   width: 1100px;
-   margin-bottom: 600px;
-   margin-right: 100px;
-  }*/
+  height: 500px;
+  width: 1100px;
+  margin-bottom: 600px;
+  margin-right: 100px;
+}*/
+
+
+
+/* Nav */
+
+
 
 .achtergrondfoto {
   background: #000000;
 }
 
-.sockdart {
-    font-family: Georgia;
-    margin: 0;
-    padding: 0;
-    position: absolute;
-    top: 60%;
-    right: -20%;
-    transform: translate(-50%, -50%);
-    color: #fff;
-    background-color: rgb(0, 0, 0);
-    text-align: center;
+.preview1 {
+  left: 0%;
+  position: absolute;
+  width: 200px;
+}
+
+.nike_air_max_alpha {
+  height: 150px;
+}
+
+.preview2 {
+  left: 50%;
+  position: absolute;
+  height: 200px;
+}
+
+.nike_air_max_system {
+  height: 150px;
+}
+
+.preview3 {
+  right: 10%;
+  position: absolute;
+  width: 209px;
+  
+}
+
+.nike_sock_dart {
+  height: 150px;
 }
   
+
+
 /* Schoenen pagina */
 
+<<<<<<< HEAD
+=======
+
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+>>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
 
 .schoenen {
   display: flex;
@@ -78,11 +114,15 @@ li a:hover:not(.active) {
 
 .schoenfilter {
   flex-basis: 250px;
-  background-color: #f2f2f2;
+  background-color: #272424;
   padding: 20px;
 }
 
+<<<<<<< HEAD
 .schoenfilter h2 {
+=======
+aside #h2 {
+>>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
   margin-top: 0;
   color: white;
   background-color: white;
@@ -114,12 +154,16 @@ li a:hover:not(.active) {
   cursor: pointer;
 }
 
+<<<<<<< HEAD
 .schoenplek {
+=======
+.producten_main {
+>>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
   flex-grow: 1;
   padding: 20px;
 }
 
-ul.products {
+.products {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -128,25 +172,39 @@ ul.products {
   grid-gap: 20px;
 }
 
+<<<<<<< HEAD
 ul.products li {
   background-color: #fff;
+=======
+.section_shoes {
+
+>>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
   padding: 20px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
 
+<<<<<<< HEAD
 ul.products li img {
+=======
+.section_shoes .producten {
+>>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
   width: 100px;
   height: 100;
   margin-bottom: 10px;
 }
 
+<<<<<<< HEAD
 ul.products li h3 {
+=======
+.section_shoes #h3 {
+>>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
   margin-top: 0;
   margin-bottom: 5px;
   font-size: 20px;
   font-weight: bold;
 }
 
+<<<<<<< HEAD
 ul.products li p {
   margin-top: 0;
   margin-bottom: 10px;
@@ -159,6 +217,9 @@ ul.products li span {
   font-weight: bold;
   color: #ffffff;
 }
+=======
+
+>>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
 
 /* Contact pagina */
 
@@ -238,7 +299,7 @@ textarea {
 .contactbtn {
 	width: 100%;
 	padding: 0.5rem 1rem;
-	background-color: #000000;
+	background: #000000;
 	color: #fff;
 	font-size: 20px;
 	cursor: pointer;
@@ -246,104 +307,122 @@ textarea {
 }
 
 .contactbtn:hover {
-  background-color: #302b2b;
+  background: #302b2b;
 }
 
 .field:focus {
-  background-color: #fff;
+  background: #fff;
 } 
 
+.Diego {
+  margin-top: 170px;
+  margin-right: 700px;
+}
 
-  .Diego {
-    margin-top: 170px;
-    margin-right: 700px;
-  }
-
-  .Aryan {
-    margin-left: 730px;
-  }
+.Aryan {
+  margin-left: 730px;
+}
   
-  .Aryan h2 {
-    margin-left: 265px;
-  }
-
-  .Yasin {
-    margin-right: 700px;
-  }
-
-  .Daniel {
-    margin-left: 730px;
-  } 
-
-  .Daniel h2 {
-    margin-left: 275px;
-  }
-
-  .Berkay {
-    margin-right: 700px;
-  }
-
-  .overons img {
-    width: 100%;
-    max-width: 200px;
-    height: auto;
-    margin: 0 auto;
+.Aryan h2 {
+  margin-left: 265px;
 }
 
-  .overons {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
+.Yasin {
+  margin-right: 700px;
 }
-  .overons p {
-    max-width: 70%;
-    color: white;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+
+.Daniel {
+  margin-left: 730px;
+} 
+
+.Daniel h2 {
+  margin-left: 275px;
 }
-  .overons h2 {
-    color: white;
-    font-size: 5vh;
-    display: flex;
+
+.Berkay {
+  margin-right: 700px;
 }
-  .overons div {
-    width: 100%;
-    padding: 20px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
+
+.overons img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  margin: 0 auto;
 }
-.OverOnsP{
+
+.overons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.overons {
+  max-width: 70%;
+  color: white;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+.overons h2 {
+  color: white;
+  font-size: 5vh;
+  display: flex;
+}
+.overons div {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.OverOnsP {
   margin-top: 5vh;
+  color: white;
 }
-.OverOnsH{
+.OverOnsH {
   display: flex;
   justify-content: center;
   margin-top: 0;
 }
+
 .OverOnsMain {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
+
 .OverOnsArticle {
   color: #1a222c;
   width: 80%;
   display: flex;
   flex-direction: column;
-  padding: 39vh 0px 38vh 0px;
+  padding: 15vh 0px 15vh 0px;
 }
-/* :) */
-/* Diego's CSS code (292 - ). */
 
+
+
+/* :) */
+
+
+<<<<<<< HEAD
+/* Footer */
+=======
 
 /* Footer */
+
+
+
+#footer_tekst {
+  background: #222222;;
+}
+
+>>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
 footer {
   position: fixed;
   bottom: 0%;
   display: flex;
   justify-content: center;
+  align-items: center;
   padding-top: 5px;
   height: 9vh;
   width: 100%;

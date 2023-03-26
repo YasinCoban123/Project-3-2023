@@ -8,7 +8,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <?php include 'navbar.php'; ?>
+<?php include 'navbar.php'; ?>
+
 <!--<video id="achtergrondvideo" autoplay muted loop>
 		<source src="img/achetrgrondvifeo.mp4" type="video/mp4">
 		<source src="img/achtergrondvideo.webm" type="video/webm">
@@ -16,12 +17,25 @@
 	</video>
   -->
   
-  <div class="achtergrondfoto"><img src="img/achtergrondfoto2.png" class="schoenen_preview">
-    <div class="sockdart">
-      <h2>De Nike Sock Dart Premium</h2>
-        <p>Elegant en Comfortabel</p>
-      <a href="#">Koop hier</a>
+  <div class="achtergrondfoto">
+    <div class="preview1">
+      <img src="img/nikeairmaxalpha.webp" class="nike_air_max_alpha">
+        <p>Nike Air Max Alpha Smoke Grey</p>
+      <a href="">Koop hier</a>
     </div>
+    <div class="preview2">
+      <img src="img/nikeairmaxsystm.webp" class="nike_air_max_system">
+        <p>Nike Air Max Grey Blue</p>
+      <a href="">Koop hier</a>
+    </div>
+    <div class="preview3">
+      <img src="img/nikesockdartprem.webp" class="nike_sock_dart">
+        <p>Nike Sock Dart Premium Orange</p>
+      <a href="">Koop hier</a>
+    </div>
+
+      <h1>Populaire producten.</h1>
+      
   </div>
     
 <?php include 'footer.php'; ?>
