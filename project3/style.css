@@ -95,136 +95,9 @@ li a:hover:not(.active) {
 
 /* Schoenen pagina */
 
-<<<<<<< HEAD
-=======
 
-
-header {
-  background-color: #333;
-  color: #fff;
-  padding: 20px;
-  text-align: center;
-}
->>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
-
-.schoenen {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.schoenfilter {
-  flex-basis: 250px;
-  background-color: #272424;
-  padding: 20px;
-}
-
-<<<<<<< HEAD
-.schoenfilter h2 {
-=======
-aside #h2 {
->>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
-  margin-top: 0;
-  color: white;
-  background-color: white;
-}
-
-.schoenfilter label {
-  display: block;
-  margin-bottom: 5px;
-}
-
-.schoenfilter select {
-  width: 100%;
-  padding: 5px;
-  margin-bottom: 10px;
-}
-
-.schoenfilter input[type="range"] {
-  width: 100%;
-  margin-bottom: 10px;
-}
-
-.schoenfilter button {
-  display: block;
-  width: 100%;
-  padding: 10px;
-  background-color: #333;
-  color: #fff;
-  border: none;
-  cursor: pointer;
-}
-
-<<<<<<< HEAD
-.schoenplek {
-=======
-.producten_main {
->>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
-  flex-grow: 1;
-  padding: 20px;
-}
-
-.products {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  grid-gap: 20px;
-}
-
-<<<<<<< HEAD
-ul.products li {
-  background-color: #fff;
-=======
-.section_shoes {
-
->>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
-  padding: 20px;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
-}
-
-<<<<<<< HEAD
-ul.products li img {
-=======
-.section_shoes .producten {
->>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
-  width: 100px;
-  height: 100;
-  margin-bottom: 10px;
-}
-
-<<<<<<< HEAD
-ul.products li h3 {
-=======
-.section_shoes #h3 {
->>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
-  margin-top: 0;
-  margin-bottom: 5px;
-  font-size: 20px;
-  font-weight: bold;
-}
-
-<<<<<<< HEAD
-ul.products li p {
-  margin-top: 0;
-  margin-bottom: 10px;
-  font-size: 16px;
-}
-
-ul.products li span {
-  display: block;
-  font-size: 20px;
-  font-weight: bold;
-  color: #ffffff;
-}
-=======
-
->>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
 
 /* Contact pagina */
-
-
-
 .contact {
   margin-top: 10px;
 	position: relative;
@@ -401,24 +274,13 @@ textarea {
 
 
 
-/* :) */
-
-
-<<<<<<< HEAD
 /* Footer */
-=======
-
-/* Footer */
-
-
-
 #footer_tekst {
   background: #222222;;
 }
 
->>>>>>> add3cb4fac2278b181c758e01e1b481b9db932f9
+
 footer {
-  position: fixed;
   bottom: 0%;
   display: flex;
   justify-content: center;
