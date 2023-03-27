@@ -95,6 +95,92 @@ li a:hover:not(.active) {
 
 /* Schoenen pagina */
 
+.schoenen {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.asideschoenen {
+  flex-basis: 250px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.asideschoenen h2 {
+  margin-top: 0;
+}
+
+.asideschoenen label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.asideschoenen select {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.asideschoenen input[type="range"] {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.asideschoenen button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.producten {
+  flex-grow: 1;
+  padding: 20px;
+}
+
+ul.products {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 20px;
+}
+
+ul.products li {
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+ul.products li img {
+  width: 100px;
+  height: 100;
+  margin-bottom: 10px;
+}
+
+ul.products li h3 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+ul.products li p {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+ul.products li span {
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
 
 
 /* Contact pagina */
