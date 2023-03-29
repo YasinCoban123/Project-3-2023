@@ -188,12 +188,12 @@ aside button {
 .contact {
   margin-top: 10px;
 	position: relative;
-	width: 80%;
+	width: 100%;
 	height: 100%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	padding: 20px 100px;
+  padding-bottom: 25px;
 }
 
 .contact:after {
@@ -210,7 +210,6 @@ aside button {
 }
 
 .contact-box {
-  margin-right: 180px;
 	max-width: 850px;
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
