@@ -95,38 +95,47 @@ li a:hover:not(.active) {
 
 /* Schoenen pagina */
 
-.schoenen {
+
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+section {
   display: flex;
   flex-wrap: wrap;
 }
 
-.asideschoenen {
+aside {
   flex-basis: 250px;
-  background-color: #f2f2f2;
+  background-color: #272424;
   padding: 20px;
 }
 
-.asideschoenen h2 {
+aside #h2 {
   margin-top: 0;
 }
 
-.asideschoenen label {
+aside label {
   display: block;
   margin-bottom: 5px;
 }
 
-.asideschoenen select {
+aside select {
   width: 100%;
   padding: 5px;
   margin-bottom: 10px;
 }
 
-.asideschoenen input[type="range"] {
+aside input[type="range"] {
   width: 100%;
   margin-bottom: 10px;
 }
 
-.asideschoenen button {
+aside button {
   display: block;
   width: 100%;
   padding: 10px;
@@ -136,12 +145,12 @@ li a:hover:not(.active) {
   cursor: pointer;
 }
 
-.producten {
+.producten_main {
   flex-grow: 1;
   padding: 20px;
 }
 
-ul.products {
+.products {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -150,40 +159,31 @@ ul.products {
   grid-gap: 20px;
 }
 
-ul.products li {
-  background-color: #fff;
+.section_shoes {
+
   padding: 20px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
 
-ul.products li img {
+.section_shoes .producten {
   width: 100px;
   height: 100;
   margin-bottom: 10px;
 }
 
-ul.products li h3 {
+.section_shoes #h3 {
   margin-top: 0;
   margin-bottom: 5px;
   font-size: 20px;
   font-weight: bold;
 }
 
-ul.products li p {
-  margin-top: 0;
-  margin-bottom: 10px;
-  font-size: 16px;
-}
-
-ul.products li span {
-  display: block;
-  font-size: 20px;
-  font-weight: bold;
-  color: #333;
-}
 
 
 /* Contact pagina */
+
+
+
 .contact {
   margin-top: 10px;
 	position: relative;
@@ -358,13 +358,22 @@ textarea {
   padding: 15vh 0px 15vh 0px;
 }
 
+
+
+/* :) */
+
+
+
 /* Footer */
+
+
+
 #footer_tekst {
   background: #222222;;
 }
 
-
 footer {
+  position: relative;
   bottom: 0%;
   display: flex;
   justify-content: center;
