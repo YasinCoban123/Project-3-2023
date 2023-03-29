@@ -4,6 +4,10 @@
   background: #575454;
 }
 
+body {
+  min-height: 100vh;
+}
+
 #logo {
   height: 110px;
   width: 110px;
@@ -19,6 +23,7 @@ nav {
   display: flex;
   height: 110px;
   width: 100%;
+  justify-content: end;
   align-items: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 20px;
@@ -27,15 +32,16 @@ nav {
 ul {
   display: flex;
   list-style-type: none;
-  position: absolute;
-  right: 0%;
+
 }
 
 li a {
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.3);
   display: block;
   color: white;
   text-decoration: none;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 li a:hover:not(.active) {
@@ -375,12 +381,11 @@ textarea {
 }
 
 footer {
-  position: relative;
-  bottom: 0%;
+  position: sticky;
+  top: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-top: 5px;
   height: 9vh;
   width: 100%;
   background: #222222;
