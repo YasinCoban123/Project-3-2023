@@ -385,7 +385,7 @@ textarea {
 
 
 #footer_tekst {
-  background: #222222;;
+  color: #c7c7c7
 }
 
 footer {
@@ -396,6 +396,6 @@ footer {
   align-items: center;
   height: 9vh;
   width: 100%;
-  background: #222222;
+  background: #252525;
   color: white;
 }
