@@ -293,6 +293,12 @@ textarea {
   background: #fff;
 } 
 
+
+
+/* Contact Pagina. */
+
+
+
 .Diego {
   margin-top: 170px;
   margin-right: 700px;
@@ -336,16 +342,20 @@ textarea {
   align-items: center;
   flex-wrap: wrap;
 }
+
 .overons {
   max-width: 70%;
   color: white;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
+
 .overons h2 {
   color: white;
   font-size: 5vh;
   display: flex;
+  padding: 6vh 0 3vh 0;
 }
+
 .overons div {
   width: 100%;
   padding: 20px;
@@ -355,7 +365,7 @@ textarea {
 }
 
 .OverOnsP {
-  margin-top: 5vh;
+  margin-top: 2vh;
   color: white;
 }
 .OverOnsH {
@@ -375,7 +385,7 @@ textarea {
   width: 80%;
   display: flex;
   flex-direction: column;
-  padding: 15vh 0px 15vh 0px;
+  padding: 12vh 0px 6vh 0px;
 }
 
 

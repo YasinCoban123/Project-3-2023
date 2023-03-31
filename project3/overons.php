@@ -111,35 +111,35 @@
           <article class="OverOnsArticle">
     <h2>Diego Ballestero Rietveldt</h2>
     <div>
-    <p class="OverOnsP">According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible.</p>
+    <p class="OverOnsP">Diego</p>
   <img src="img/kummma.jpeg" alt="">
   </div>
   </article>
   <article class="Aryan, OverOnsArticle">
     <h2>Aryan Bhagwat</h2>
     <div>
-    <p class="OverOnsP">According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible.</p>
+    <p class="OverOnsP">Aryan.</p>
   <img src="img/kummma.jpeg" alt="">
   </div>
   </article>
   <article class="Yasin, OverOnsArticle">
-    <h2>Yasin Coban</h2>
+    <h2>Yasin Çoban</h2>
     <div>
-    <p class="OverOnsP">According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible.</p>
+    <p class="OverOnsP">Yasin.</p>
   <img src="img/kummma.jpeg" alt="">
   </div>
   </article>
   <article class="Daniel, OverOnsArticle">
     <h2>Daniel Kuiper</h2>
     <div>
-    <p class="OverOnsP">According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible.</p>
+    <p class="OverOnsP">Daniel</p>
   <img src="img/kummma.jpeg" alt="">
   </div>
   </article>
   <article class="Berkay, OverOnsArticle">
     <h2>Berkay Onal</h2>
     <div>
-    <p class="OverOnsP">According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible.</p>
+    <p class="OverOnsP">Berkay Anal</p>
   <img src="img/kummma.jpeg" alt="">
   </div>
   </article>
