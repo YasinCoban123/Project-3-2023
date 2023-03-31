@@ -1,6 +1,35 @@
-<?php
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <?php include "navbar.php"; ?>
 
+    <div class="preview1">
+      <img src="img/nikeairmaxalpha.webp" class="nike_air_max_alpha">
+        <p>Nike Air Max Alpha Smoke Grey</p>
+      <a href="">Koop hier</a>
+    </div>
 
-echo "balls";
-echo "KUmalala kumalala kumala savesta, niggas talking crazy we be hitting in their chestaa, ooooh lalalala savesta, ooooh lalalala savesta"
-?>
+    <div class="preview2">
+      <img src="img/nikeairmaxsystm.webp" class="nike_air_max_system">
+        <p>Nike Air Max Grey Blue</p>
+      <a href="">Koop hier</a>
+    </div>
+
+    <div class="preview3">
+      <img src="img/nikesockdartprem.webp" class="nike_sock_dart">
+        <p>Nike Sock Dart Premium Orange</p>
+      <a href="">Koop hier</a>
+    </div>
+
+      <h1>Populaire producten.</h1>
+
+    <?php include "footer.php"; ?>
+</body>
+</html>
