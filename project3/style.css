@@ -178,7 +178,6 @@ aside button {
 }
 
 .section_shoes {
-
   padding: 20px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
@@ -232,7 +231,7 @@ aside button {
 }
 
 .contact-box {
-  margin-right: 180px;
+  margin-left: 100px;
 	max-width: 850px;
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
