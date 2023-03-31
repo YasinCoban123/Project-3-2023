@@ -26,13 +26,13 @@
               steeds meer verduurzaamd. De duurzaamheid van een schoen hangt voor een groot deel af van de materialen 
               waarvan deze is gemaakt, en de impact hiervan op het milieu. 
               Milieuvriendelijke materialen en productieprocessen zijn daarom een must. 
-              Wij lichten een aantal duurzame materialen voor je uit.</p></br>
+              Wij lichten een aantal duurzame materialen voor je uit.</p> </br> </br>
             <h2>Leer</h2>
             <div>
-            <p class="OverOnsP"">Duurzaam leer wordt gemaakt van leer dat anders zou zijn weggegooid na het productieproces. 
+            <p class="OverOnsP">Duurzaam leer wordt gemaakt van leer dat anders zou zijn weggegooid na het productieproces. 
               Ook wordt dit leer gelooid zonder zware chemicaliën. Leer gaat ook nog eens lekker lang mee 
               omdat je het goed kunt onderhouden en het dus niet makkelijk slijt!</p>
-            </div></br>
+            </div> </br> </br>
             <h2>Textiel</h2>
             <div>
             <p class="OverOnsP">Hiervoor wordt er steeds meer gebruik gemaakt van gerecyclede materialen, 
@@ -41,7 +41,7 @@
               Maar ook biologisch katoen is super eco-friendly. Dit zorgt namelijk voor minder CO2 uitstoot 
               en waterverspilling. Ook voor de boeren op de plantages zorgt biologische katoenproductie 
               voor betere arbeidsomstandigheden.</p>
-            </div></br>
+            </div> </br> </br>
             <h2>Kurk</h2>
             <div>
             <p class="OverOnsP">Kurk wordt voornamelijk gebuikt in zolen van schoenen. 
@@ -49,14 +49,14 @@
               biologisch afbreekbaar, milieuvriendelijk en recyclebaar. 
               Daarnaast is kurk zeer schokabsorberend en veerkrachtig, 
               waardoor schoenen met een kurk zool erg comfortabel lopen.</p>
-            </div></br>
+            </div> </br> </br>
             <h2>Rubber</h2>
             <div>
             <p class="OverOnsP">Ook rubber kan zeer duurzaam zijn. Denk aan het recyclen ervan of aan rubber afkomstig 
               van plantages die op een verantwoorde manier met grondbeheer omgaan. 
               Ook bestaat er natuurrubber, dat wordt verkregen uit het sap van de zogeheten 'rubberbomen'. 
               Doordat rubber niet makkelijk slijt, gaan je schoenen met een rubberen zool dus ook extra lang mee.</p>            
-            </div></br>
+            </div> </br> </br>
             <h2>Schuim</h2>
             <div>
             <p class="OverOnsP">Vooral bij sneakers is de binnenzool gemaakt van comfortabel schuim. 

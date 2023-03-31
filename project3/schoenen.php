@@ -8,7 +8,7 @@
   <title>Schoenen</title>
 </head>
 <body>
-  <?php include 'navbar.php'; ?>
+<?php include 'navbar.php'; ?>
   <section>
 		<aside>
 			<h2 id="h2">Filters</h2>
@@ -59,38 +59,42 @@
 					<span>$50.00</span>
 				</div>
 				<div class="section_shoes">
-					<img src="img/nikesockdartprem.webp" class="producten">
-					<h3>Product 1</h3>
+					<img src="img/nikeairmaxalpha.webp" class="producten">
+					<h3>Product 2</h3>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
-					<span>$50.00</span>
+					<span>$75.00</span>
+				</div>
+				<div class="section_shoes">
+					<img src="img/nikeairmaxsystm.webp" class="producten">
+					<h3>Product 3</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
+					<span>$100.00</span>
 				</div>
 				<div class="section_shoes">
 					<img src="img/nikesockdartprem.webp" class="producten">
 					<h3>Product 1</h3>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
-					<span>$50.00</span>
+					<span>$50.00</span>			
+				</div>
+				<div class="section_shoes">
+					<img src="img/nikeairmaxalpha.webp" class="producten">
+					<h3>Product 2</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
+					<span>$75.00</span>
+				</div>
+				<div class="section_shoes">
+					<img src="img/nikeairmaxsystm.webp" class="producten">
+					<h3>Product 3</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
+					<span>$100.00</span>
 				</div>
 				<div class="section_shoes">
 					<img src="img/nikesockdartprem.webp" class="producten">
 					<h3>Product 1</h3>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
-					<span>$50.00</span>
-					<div class="section_shoes">
-						<img src="img/nikesockdartprem.webp" class="producten">
-						<h3>Product 1</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
-						<span>$50.00</span>
-						<div class="section_shoes">
-							<img src="img/nikesockdartprem.webp" class="producten">
-							<h3>Product 1</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
-							<span>$50.00</span>
-							<div class="section_shoes">
-								<img src="img/nikesockdartprem.webp" class="producten"> 
-								<h3>Product 1</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
-								<span>$50.00</span>
-					
+					<span>$50.00</span>			
+				</div>
+				
 			</div>
 		</main>
 	</section>
