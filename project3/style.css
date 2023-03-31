@@ -210,7 +210,7 @@ aside button {
 }
 
 .contact-box {
-  margin-right: 180px;
+  margin-left: 100px;
 	max-width: 850px;
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
