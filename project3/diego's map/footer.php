@@ -7,8 +7,10 @@
   <title>Document</title>
 </head>
 <body>
-  <footer>
-    <p id="footer_tekst">©Yasin, Berkay, Daniel, Aryan en Diego.</p>
-  </footer>
+  <div class="footer_container">
+    <footer>
+      <p id="footer_tekst">breeeeeeeeeeeeeeeehhh</p>
+    </footer>
+  </div>
 </body>
 </html>
