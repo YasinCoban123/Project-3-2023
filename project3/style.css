@@ -368,6 +368,7 @@ textarea {
   margin-top: 2vh;
   color: white;
 }
+
 .OverOnsH {
   display: flex;
   justify-content: center;
@@ -388,6 +389,12 @@ textarea {
   padding: 12vh 0px 6vh 0px;
 }
 
+.retour {
+  margin-bottom: 100px;
+}
+.retourneren{
+  width: 30vw;
+}
 
 
 /* :) */
