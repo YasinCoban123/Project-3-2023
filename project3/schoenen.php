@@ -27,7 +27,7 @@
 				<option value="green">Green</option>
 			</select>
 			<label for="price">Price Range</label>
-			<input type="range" id="price" name="price" min="0" max="1000">
+			<input type="range" id="price" name="price" min="40" max="150">
 			<span id="price-value"></span>
 			<button>Apply Filters</button>
 		</aside>
@@ -63,62 +63,73 @@
 				</div>
 
 				<div class="section_shoes">
-
 					<img src="img/nikeairmaxap.webp" class="producten">
 					<h3>Nike Air Max Alpha Trainer 5</h3>
 					<p>Beëindig je laatste rep met kracht en rek het uit met een brul die de vloer van de sportschool verbluft in de Nike Air Max Alpha Trainer 5.</p>
 					<span>$50.00</span>
-
-					<img src="img/nikeairmaxalpha.webp" class="producten">
-					<h3>Product 2</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
-					<span>$75.00</span>
-				</div>
-				<div class="section_shoes">
-					<img src="img/nikeairmaxsystm.webp" class="producten">
-					<h3>Product 3</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
-					<span>$100.00</span>
 				</div>
 
-				<div class="section_shoes">
+					<div class="section_shoes">
 					<img src="img/pumaxrayspeed.webp" class="producten">
 					<h3>Puma X-ray Speed</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
-					<span>$50.00</span>			
-				</div>
-				<div class="section_shoes">
-					<img src="img/nikeairmaxalpha.webp" class="producten">
-					<h3>Nike Air Max Alpha</h3>
-					<p>De Nike Air Max Alpha demping biedt comfortabele stabiliteit voor het tillen, of het nu een lichte of zware dag is. Een brede, platte basis geeft je verbeterde stabiliteit en grip voor allerlei zware trainingen, zonder stijl op te offeren terwijl je van station naar station en set naar set gaat.</p>
+					<p>De X-Ray Speed ​​is licht en wendbaar, waardoor je snel op de been blijft.</p>
 					<span>$75.00</span>
 				</div>
 
 				<div class="section_shoes">
-					<img src="img/nikeairmaxsystm.webp" class="producten">
-					<h3>Product 3</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
+					<img src="img/oneilaltahighboots.webp" class="producten">
+					<h3>O'Neill Alta Men High Snowboots</h3>
+					<p>Ga de deur uit voor een wandeling in de sneeuw met deze Alta Men High snowboots van O'Neill</p>
 					<span>$100.00</span>
 				</div>
 
 				<div class="section_shoes">
-					<img src="img/reeboknfx.webp" class="producten">
-					<h3>Reebok NFX</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
+					<img src="img/adidaspureboost.webp" class="producten">
+					<h3>Adidas Pure Boost</h3>
+					<p>De Adidas Pure Boost is een voorbeeld voor hoe een energieteruggevende en comfortabele schoen moet zijn.</p>
+					<span>$50.00</span>			
+				</div>
+
+				<div class="section_shoes">
+					<img src="img/nikeairmaxltd.webp" class="producten">
+					<h3>Nike Air Max LTD 3</h3>
+					<p>De Nike Air LTD 3 voor heren heeft de Max Air-unit in de hak voor comfort en een leren bovenwerk voor duurzaamheid.</p>
+					<span>$75.00</span>
+				</div>
+
+				<div class="section_shoes">
+					<img src="img/adidashoops.webp" class="producten">
+					<h3>Adidas Hoops 3.0 </h3>
+					<p>The iconic 3-Stripes on the synthetic leather upper, plus a rubber cupsole underneath, create a heritage vibe.</p>
+					<span>$100.00</span>
+				</div>
+
+				<div class="section_shoes">
+					<img src="img/asicsgelcum.webp" class="producten">
+					<h3>Asics Gel-Cumulus 24</h3>
+					<p>Asics Gel-Cumulus 24 is een alledaagse schoen die is ontworpen om hardlopers een gedempte en comfortabele ervaring te bieden.</p>
 					<span>$50.00</span>
 				</div>
 
 				<div class="section_shoes">
-					<img src="img/nikeairmaxalpha.webp" class="producten">
-					<h3>Product 2</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
-					<span>$75.00</span>
-				</div>
-				<div class="section_shoes">
-					<img src="img/nikeairmaxsystm.webp" class="producten">
-					<h3>Product 3</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
+					<img src="img/adidaseasttrail.webp" class="producten">
+					<h3>Adidas East Trail 2.0 Rain.RDY</h3>
+					<p>Deze hikingschoenen met adidas RAIN.RDY zijn ontwikkeld voor natte dagen in de natuur.</p>
 					<span>$100.00</span>
+				</div>
+
+				<div class="section_shoes">
+					<img src="img/adidasultraboost23.webp" class="producten">
+					<h3>Adidas Ultraboost</h3>
+					<p>Ervaar epische energie met de nieuwe Ultraboost 23, onze lichtste Ultraboost ooit.</p>
+					<span>$150.00</span>
+				</div>
+
+				<div class="section_shoes">
+					<img src="img/adidasadipower.webp" class="producten">
+					<h3>Adidas Adipower</h3>
+					<p>Deze adidas gewichthefschoenen houden je ook bij de hoogste belasting stabiel met een verhoogde hiel en compacte middenzool.</p>
+					<span>$180.00</span>
 				</div>
 			</div>
 		</main>
