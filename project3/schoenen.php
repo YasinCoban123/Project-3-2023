@@ -8,7 +8,7 @@
   <title>Schoenen</title>
 </head>
 <body>
-  <?php include 'navbar.php'; ?>
+<?php include 'navbar.php'; ?>
   <section>
 		<aside>
 			<h2 id="h2">Filters</h2>
@@ -63,47 +63,63 @@
 				</div>
 
 				<div class="section_shoes">
+
 					<img src="img/nikeairmaxap.webp" class="producten">
 					<h3>Nike Air Max Alpha Trainer 5</h3>
 					<p>Beëindig je laatste rep met kracht en rek het uit met een brul die de vloer van de sportschool verbluft in de Nike Air Max Alpha Trainer 5.</p>
 					<span>$50.00</span>
+
+					<img src="img/nikeairmaxalpha.webp" class="producten">
+					<h3>Product 2</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
+					<span>$75.00</span>
+				</div>
+				<div class="section_shoes">
+					<img src="img/nikeairmaxsystm.webp" class="producten">
+					<h3>Product 3</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
+					<span>$100.00</span>
 				</div>
 
 				<div class="section_shoes">
 					<img src="img/pumaxrayspeed.webp" class="producten">
 					<h3>Puma X-ray Speed</h3>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
+					<span>$50.00</span>			
+				</div>
+				<div class="section_shoes">
+					<img src="img/nikeairmaxalpha.webp" class="producten">
+					<h3>Nike Air Max Alpha</h3>
+					<p>De Nike Air Max Alpha demping biedt comfortabele stabiliteit voor het tillen, of het nu een lichte of zware dag is. Een brede, platte basis geeft je verbeterde stabiliteit en grip voor allerlei zware trainingen, zonder stijl op te offeren terwijl je van station naar station en set naar set gaat.</p>
+					<span>$75.00</span>
+				</div>
+
+				<div class="section_shoes">
+					<img src="img/nikeairmaxsystm.webp" class="producten">
+					<h3>Product 3</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
+					<span>$100.00</span>
+				</div>
+
+				<div class="section_shoes">
+					<img src="img/reeboknfx.webp" class="producten">
+					<h3>Reebok NFX</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
 					<span>$50.00</span>
 				</div>
 
 				<div class="section_shoes">
-					<img src="img/nikesockdartprem.webp" class="producten">
-					<h3>Product 1</h3>
+					<img src="img/nikeairmaxalpha.webp" class="producten">
+					<h3>Product 2</h3>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
-					<span>$50.00</span>
-					</div>
-
-					<div class="section_shoes">
-						<img src="img/nikesockdartprem.webp" class="producten">
-						<h3>Product 1</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
-						<span>$50.00</span>
-						</div>
-
-						<div class="section_shoes">
-							<img src="img/nikesockdartprem.webp" class="producten">
-							<h3>Product 1</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
-							<span>$50.00</span>
-							</div>
-
-							<div class="section_shoes">
-								<img src="img/nikesockdartprem.webp" class="producten"> 
-								<h3>Product 1</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
-								<span>$50.00</span>
-								</div>
-					
+					<span>$75.00</span>
+				</div>
+				<div class="section_shoes">
+					<img src="img/nikeairmaxsystm.webp" class="producten">
+					<h3>Product 3</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod magna at tristique vehicula.</p>
+					<span>$100.00</span>
+				</div>
 			</div>
 		</main>
 	</section>
