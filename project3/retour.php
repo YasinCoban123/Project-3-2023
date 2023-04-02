@@ -19,7 +19,7 @@
                     lagere retourkosten per pakket.</p></br>
                 <h2>SchoenReus vergoedt deels de retourkosten</h2>
                 <div>
-                    <p class="OverOnsP"">Klanten kunnen de artikelen die ze kopen via bol.com altijd gratis 
+                    <p class="OverOnsP">Klanten kunnen de artikelen die ze kopen via bol.com altijd gratis 
                     retourneren. Echter zitten hier voor jou wel kosten aan verbonden en daarin willen we je graag tegemoet komen. Daarom bieden we een retourlabelservice aan, waarmee we de retourkosten deels vergoeden. Je schaft met deze service namelijk retourlabels aan voor brievenbuspakjes en pakketten tegen een voordelig tarief.
                     Let op! Gebruik maken van de bol.com retourservice is alleen mogelijk als de artikelen 
                     voldoen aan de afmetingen van de verzenddienst. Bij artikelen die te groot of te zwaar 
