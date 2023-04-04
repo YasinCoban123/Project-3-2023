@@ -126,7 +126,7 @@
     <h2>Yasin Çoban</h2>
     <div>
     <p class="OverOnsP">Yasin.</p>
-  <img src="img/kummma.jpeg" alt="">
+  <img src="img/fotoyasin2.jpeg" alt="">
   </div>
   </article>
   <article class="Daniel, OverOnsArticle">
