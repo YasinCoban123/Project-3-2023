@@ -30,7 +30,7 @@
 				<option value="green">Green</option>
 			</select>
 			<label for="price">Price Range</label>
-			<input type="range" id="price" name="price" min="40" max="150">
+			<input type="range" id="price" name="price" min="20" max="150">
 			<span id="price-value"></span>
 			<button>Apply Filters</button>
 		</aside>
