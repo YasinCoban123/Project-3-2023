@@ -40,7 +40,7 @@
 				<div class="section_shoes">
 					<img src="img/nikesockdartprem.webp" class="producten">
 					<h3 id="h3">Nike Sock Dart Premium</h3>
-					<p>De bovenkant is volledig rood met een bijpassende transparante band.</p>
+					<p>Deze sneakers van Nike trek je eenvoudig aan dankzij de elastische instap hebben ze een comfortabele pasvorm.</p>
 					<span>€89,99</span>
 				</div>
 
