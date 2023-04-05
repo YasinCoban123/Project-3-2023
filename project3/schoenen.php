@@ -39,7 +39,7 @@
 		<main class="producten_main">
 			<div class="products">
 				<div class="section_shoes">
-				<a href="#"><img src="img/nikesockdartprem.webp" class="producten"></a>
+				<a href="schoen1.php"><img src="img/nikesockdartprem.webp" class="producten"></a>
 					<h3 id="h3">Nike Sock Dart Premium</h3>
 					<p>Deze sneakers van Nike trek je eenvoudig aan dankzij de elastische instap hebben ze een comfortabele pasvorm.</p>
 					<span>€89,99</span>
