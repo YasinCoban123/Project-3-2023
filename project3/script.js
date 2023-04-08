@@ -41,3 +41,8 @@ function updateFilters() {
   // Display the selected filter options to the user
   priceValue.textContent = `€${selectedPrice}`;
 }
+
+let background = document.querySelector('.background').getBoundingClientRect();
+var audio = document.getElementById("musicc");
+audio.loop = true;
+audio.play();

@@ -41,5 +41,7 @@
       
     
 <?php include 'footer.php'; ?>
+<audio id="backgroundtrack" src="mussic.mp3"></audio>
+<script src="script.js"></script>
 </body>
 </html>
