@@ -100,7 +100,7 @@ li a:hover:not(.active) {
 
 
 /* Homepagina */
-
+#recommendations
 .preview1 {
   left: 0%;
   top: 20%;
@@ -339,6 +339,7 @@ aside button {
 
 .field {
 	width: 89%;
+  resize: none;
 	border: 2px solid rgba(255, 255, 255, 0);
 	outline: none;
 	background-color: rgba(230, 230, 230, 0.6);

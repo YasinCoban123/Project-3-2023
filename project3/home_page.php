@@ -37,7 +37,7 @@
       <a href="">Koop hier</a>
     </div>
 
-      <h1>Populaire producten.</h1>
+      <h1 id="recommendation_tekst">Producten die we aanraden.</h1>
       
     
 <?php include 'footer.php'; ?>
