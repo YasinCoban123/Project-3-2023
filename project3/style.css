@@ -5,7 +5,7 @@
 
 body {
   min-height: 100vh;
-  background: #575454;
+  background: #595757;
 }
 
 #logo {
@@ -64,10 +64,43 @@ li a:hover:not(.active) {
 
 
 
-/* Nav */
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Homepagina */
+#recommendations
 .preview1 {
   left: 0%;
   top: 20%;
@@ -109,9 +142,35 @@ li a:hover:not(.active) {
   
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Schoenen pagina */
-
-
 
 header {
   background-color: #333;
@@ -197,23 +256,41 @@ aside button {
 
 
 
-/* Schoenen pagina. */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 /* Contact pagina. */
 
-
-
 .contact {
-  margin-top: 10px;
+  margin-top: 25px;
 	position: relative;
 	width: 100%;
 	height: 100%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-  padding-bottom: 25px;
+  margin-bottom: 25px;
 }
 
 .contact:after {
@@ -262,6 +339,7 @@ aside button {
 
 .field {
 	width: 89%;
+  resize: none;
 	border: 2px solid rgba(255, 255, 255, 0);
 	outline: none;
 	background-color: rgba(230, 230, 230, 0.6);
@@ -295,9 +373,31 @@ textarea {
 
 
 
-/* Contact Pagina. */
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* overons pagina */
 
 .Diego {
   margin-top: 170px;
@@ -392,18 +492,45 @@ textarea {
 .retour {
   margin-bottom: 100px;
 }
+
 .retourneren{
   width: 30vw;
 }
 
 
-/* :) */
+
+
+
+
+
+.schoenfoto {
+
+}
+.schoenfoto img {
+height: 100px;
+width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 /* Footer */
-
-
 
 #footer_tekst {
   color: #c7c7c7

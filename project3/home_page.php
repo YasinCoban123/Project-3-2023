@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="icon" href="img/schoenreus logo.png" type="image/x-icon">
   <link rel="stylesheet" href="style.css">
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -36,9 +37,11 @@
       <a href="">Koop hier</a>
     </div>
 
-      <h1>Populaire producten.</h1>
+      <h1 id="recommendation_tekst">Producten die we aanraden.</h1>
       
     
 <?php include 'footer.php'; ?>
+<audio id="backgroundtrack" src="mussic.mp3"></audio>
+<script src="script.js"></script>
 </body>
 </html>
