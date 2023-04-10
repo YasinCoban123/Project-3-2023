@@ -12,7 +12,6 @@
 <?php include 'navbar.php'; ?>
   <section>
 		<aside>
-<<<<<<< HEAD
 			<h2 id="h2">Filters</h2> <br> <br>
 			<label for="brand">Merk</label>
 			<select id="brand" name="brand">
@@ -32,7 +31,6 @@
 				<option value="green">Green</option>
 			</select>
 			<label for="price">Price Range</label>
-=======
 			<h2 id="h2">Filters</h2>
 			<label for="brand-filter">Schoenmerk:</label>
 	<select id="brand-filter">
@@ -60,7 +58,6 @@
 </select>
 
 	    <label for="price-filter">Price:</label>
->>>>>>> 5b31c537bef7cbedc3796d6cf5ae9195fe5386fd
 			<input type="range" id="price" name="price" min="20" max="150">
 			<span id="price-value"></span>
 			<button id="filter-button">Filter</button>
