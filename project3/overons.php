@@ -140,7 +140,7 @@
   <article class="Berkay, OverOnsArticle">
     <h2>Berkay Onal</h2>
     <div>
-    <p class="OverOnsP">Berkay Anal</p>
+    <p class="OverOnsP"></p>
   <img src="img/kummma.jpeg" alt="">
   </div>
   </article>
