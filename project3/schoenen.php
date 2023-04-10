@@ -12,6 +12,7 @@
 <?php include 'navbar.php'; ?>
   <section>
 		<aside>
+<<<<<<< HEAD
 			<h2 id="h2">Filters</h2> <br> <br>
 			<label for="brand">Merk</label>
 			<select id="brand" name="brand">
@@ -31,13 +32,43 @@
 				<option value="green">Green</option>
 			</select>
 			<label for="price">Price Range</label>
+=======
+			<h2 id="h2">Filters</h2>
+			<label for="brand-filter">Schoenmerk:</label>
+	<select id="brand-filter">
+		<option value="">Alles</option>
+		<option value="nike">Nike</option>
+		<option value="adidas">Adidas</option>
+		<option value="puma">Puma</option>
+		<option value="oneill">O'Neill</option>
+		<option value="reebok">Puma</option>
+		<option value="asics">Asics</option>
+		<option value="fila">Fila</option>
+	</select>
+
+	<label for="size-filter">Schoenmaat:</label>
+	<select id="size-filter">
+		<option value="">All</option>
+		<option value="5">37</option>
+		<option value="6">38</option>
+		<option value="7">39</option>
+		<option value="8">40</option>
+		<option value="9">41</option>
+		<option value="10">42</option>
+		<option value="11">43</option>
+		<option value="12">44</option>
+</select>
+
+	    <label for="price-filter">Price:</label>
+>>>>>>> 5b31c537bef7cbedc3796d6cf5ae9195fe5386fd
 			<input type="range" id="price" name="price" min="20" max="150">
 			<span id="price-value"></span>
-			<button>Apply Filters</button>
+			<button id="filter-button">Filter</button>
 		</aside>
 		
 		<main class="producten_main">
-			<div class="products">
+			<div id= "shoe-list">
+			<div class="products" data-brand="nike" data-size="11" data-price="100">
 				<div class="section_shoes">
 				<a href="schoen1.php"><img src="img/nikesockdartprem.webp" class="producten"></a>
 					<h3 id="h3">Nike Sock Dart Premium</h3>
@@ -136,9 +167,11 @@
 					<span>€139,99</span>
 				</div>
 			</div>
+			</div>
 		</main>
 	</section>
 <?php include 'footer.php'; ?>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/14.6.3/nouislider.min.js"></script>
 <script src="script.js"></script>
 </body>
 </html>
