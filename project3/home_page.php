@@ -18,7 +18,7 @@
 	</video>
   -->
   
- 
+  <div class="schoen_preview">
     <div class="preview1">
       <img src="img/nikeairmaxalpha.webp" class="nike_air_max_alpha">
         <p>Nike Air Max Alpha Smoke Grey</p>
@@ -38,7 +38,7 @@
     </div>
 
       <h1 id="recommendation_tekst">Producten die we aanraden.</h1>
-      
+  </div>    
     
 <?php include 'footer.php'; ?>
 </body>

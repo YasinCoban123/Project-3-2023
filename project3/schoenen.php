@@ -12,7 +12,7 @@
 <?php include 'navbar.php'; ?>
   <section>
 		<aside>
-			<h2 id="h2">Filters</h2>
+			<h2 id="h2">Filters</h2> <br> <br>
 			<label for="brand">Merk</label>
 			<select id="brand" name="brand">
 				<option value="alles">Alles</option>

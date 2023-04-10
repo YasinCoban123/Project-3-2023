@@ -64,43 +64,18 @@ li a:hover:not(.active) {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Homepagina */
-#recommendations
+
+
+
+.schoen_preview {
+  color: white;
+  position: absolute;
+  height: 60%;
+  width: 100%;
+  background: #252525;
+}
+
 .preview1 {
   left: 0%;
   top: 20%;
@@ -142,35 +117,9 @@ li a:hover:not(.active) {
   
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Schoenen pagina */
+
+
 
 header {
   background-color: #333;
@@ -216,7 +165,7 @@ aside button {
   display: block;
   width: 100%;
   padding: 10px;
-  background-color: #333;
+  background-color: #595757;
   color: #fff;
   border: none;
   cursor: pointer;
@@ -256,31 +205,9 @@ aside button {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Contact pagina. */
+
+
 
 .contact {
   margin-top: 25px;
