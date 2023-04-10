@@ -38,7 +38,6 @@ nav {
 ul {
   display: flex;
   list-style-type: none;
-
 }
 
 li a {
@@ -71,9 +70,9 @@ li a:hover:not(.active) {
 .schoen_preview {
   color: white;
   position: absolute;
-  height: 60%;
+  height: 80%;
   width: 100%;
-  background: #252525;
+  background: #1b1b1b;
 }
 
 .preview1 {
@@ -116,6 +115,25 @@ li a:hover:not(.active) {
 .nike_sock_dart {
   height: 150px;
   background: #d9d9d9;
+}
+
+.koop_hier {
+  text-decoration: none;
+  background-color: #1c87c9;
+  border: none;
+  color: white;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#recommendation_tekst {
+  bottom: 0;
+  position: absolute
 }
   
 

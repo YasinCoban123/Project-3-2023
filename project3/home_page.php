@@ -22,19 +22,19 @@
     <div class="preview1">
       <img src="img/nikeairmaxalpha.png" class="nike_air_max_alpha">
         <p>Nike Air Max Alpha Smoke Grey</p>
-      <a href="">Koop hier</a>
+      <a href="" class="koop_hier">Koop hier</a>
     </div>
 
     <div class="preview2">
       <img src="img/nikeairmaxsystm.png" class="nike_air_max_system">
         <p>Nike Air Max Grey Blue</p>
-      <a href="">Koop hier</a>
+        <button><a href="">Koop hier</a></button>
     </div>
 
     <div class="preview3">
       <img src="img/nikesockdartprem.png" class="nike_sock_dart">
         <p>Nike Sock Dart Premium Orange</p>
-      <a href="">Koop hier</a>
+        <button><a href="">Koop hier</a></button>
     </div>
 
       <h1 id="recommendation_tekst">Producten die we aanraden.</h1>
