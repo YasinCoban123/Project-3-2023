@@ -36,25 +36,17 @@
 		<option value="10">42</option>
 		<option value="11">43</option>
 		<option value="12">44</option>
-	</select>
-
-	<label for="price-filter">Price:</label>
-	<select id="price-filter">
-		<option value="">All</option>
-		<option value="0-50">$0 - $50</option>
-		<option value="50-100">$50 - $100</option>
-		<option value="100-200">$100 - $200</option>
-		<option value="200+">$200+</option>
-	</select>
+</select>
 
 			
 	    <label for="price-filter">Price:</label>
 			<input type="range" id="price" name="price" min="20" max="150">
 			<span id="price-value"></span>
-			<button>Apply Filters</button>
+			<button id="filter-button">Filter</button>
 		</aside>
 		
 		<main class="producten_main">
+			<div id= "shoe-list">
 			<div class="products" data-brand="nike" data-size="43" data-price="100">
 				<div class="section_shoes">
 				<a href="schoen1.php"><img src="img/nikesockdartprem.webp" class="producten"></a>
@@ -153,6 +145,7 @@
 					<p>Deze adidas gewichthefschoenen houden je ook bij de hoogste belasting stabiel met een verhoogde hiel en compacte middenzool.</p>
 					<span>€139,99</span>
 				</div>
+			</div>
 			</div>
 		</main>
 	</section>

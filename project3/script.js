@@ -1,3 +1,4 @@
+// Get the filter elements
 var brandFilter = document.getElementById("brand-filter");
 var sizeFilter = document.getElementById("size-filter");
 
@@ -15,10 +16,14 @@ noUiSlider.create(slider, {
   }
 });
 
+// Get the filter button element
+var filterButton = document.getElementById("filter-button");
+
 // Add event listeners to the filter elements
 brandFilter.addEventListener("change", filterShoes);
 sizeFilter.addEventListener("change", filterShoes);
 slider.noUiSlider.on('change', filterShoes);
+filterButton.addEventListener("click", filterShoes);
 
 // Define the filter function
 function filterShoes() {
