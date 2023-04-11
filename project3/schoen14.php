@@ -11,13 +11,13 @@
 <body>
   <?php include 'navbar.php' ?>
   <div class="schoenfoto">
-  <img src="img/nikesockdartprem.webp" alt="" srcset="">
+  <img src="img/adidasadipower.webp" alt="" srcset="">
   </div>
   <div class="schoenalles">
   <div class="schoentekst">
-    <h2>Nike Sock Dart Premium</h2>
-    <p id="schoenprijs">Prijs: €89,99 </p>
-    <p>Deze sneakers van Nike trek je eenvoudig aan dankzij de elastische instap hebben ze een comfortabele pasvorm.</p>
+    <h2>Adidas Adipower</h2>
+    <p id="schoenprijs">Prijs: € 139,99</p>
+    <p>Deze adidas gewichthefschoenen houden je ook bij de hoogste belasting stabiel met een verhoogde hiel en compacte middenzool.</p>
   </div>
   <br>
   <div class="schoenmaten">
@@ -34,7 +34,7 @@
   <br>
   <br>
   <div class="schoenkopenenwinkelwagen">
-    <button id="schoenkoopnu">Koop nu</button>
+  <button id="schoenkoopnu">Koop nu</button>
   <button><img src="img/winkelwagenicoon2.png" alt="" srcset=""></button>
   </div>
   </div>

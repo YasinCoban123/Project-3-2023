@@ -11,13 +11,13 @@
 <body>
   <?php include 'navbar.php' ?>
   <div class="schoenfoto">
-  <img src="img/nikesockdartprem.webp" alt="" srcset="">
+  <img src="img/asicsgelcum.webp" alt="" srcset="">
   </div>
   <div class="schoenalles">
   <div class="schoentekst">
-    <h2>Nike Sock Dart Premium</h2>
-    <p id="schoenprijs">Prijs: €89,99 </p>
-    <p>Deze sneakers van Nike trek je eenvoudig aan dankzij de elastische instap hebben ze een comfortabele pasvorm.</p>
+    <h2>Asics Gel-Cumulus 24</h2>
+    <p id="schoenprijs">Prijs: €119,99 </p>
+    <p>Asics Gel-Cumulus 24 is een alledaagse schoen die is ontworpen om hardlopers een gedempte en comfortabele ervaring te bieden.</p>
   </div>
   <br>
   <div class="schoenmaten">
@@ -34,7 +34,7 @@
   <br>
   <br>
   <div class="schoenkopenenwinkelwagen">
-    <button id="schoenkoopnu">Koop nu</button>
+  <button id="schoenkoopnu">Koop nu</button>
   <button><img src="img/winkelwagenicoon2.png" alt="" srcset=""></button>
   </div>
   </div>

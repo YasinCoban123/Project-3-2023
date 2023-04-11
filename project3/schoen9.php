@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+s<!DOCTYPE html>
 <html lang="en">
 <head>
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
@@ -11,13 +11,13 @@
 <body>
   <?php include 'navbar.php' ?>
   <div class="schoenfoto">
-  <img src="img/nikesockdartprem.webp" alt="" srcset="">
+  <img src="img/nikeairmaxltd.webp" alt="" srcset="">
   </div>
   <div class="schoenalles">
   <div class="schoentekst">
-    <h2>Nike Sock Dart Premium</h2>
-    <p id="schoenprijs">Prijs: €89,99 </p>
-    <p>Deze sneakers van Nike trek je eenvoudig aan dankzij de elastische instap hebben ze een comfortabele pasvorm.</p>
+    <h2>Nike Air Max LTD 3</h2>
+    <p id="schoenprijs">Prijs:€ 109,99 </p>
+    <p>De Nike Air LTD 3 voor heren heeft de Max Air-unit in de hak voor comfort en een leren bovenwerk voor duurzaamheid.</p>
   </div>
   <br>
   <div class="schoenmaten">
@@ -34,7 +34,7 @@
   <br>
   <br>
   <div class="schoenkopenenwinkelwagen">
-    <button id="schoenkoopnu">Koop nu</button>
+  <button id="schoenkoopnu">Koop nu</button>
   <button><img src="img/winkelwagenicoon2.png" alt="" srcset=""></button>
   </div>
   </div>
