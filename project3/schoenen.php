@@ -12,6 +12,25 @@
 <?php include 'navbar.php'; ?>
   <section>
 		<aside>
+			<h2 id="h2">Filters</h2> <br> <br>
+			<label for="brand">Merk</label>
+			<select id="brand" name="brand">
+				<option value="alles">Alles</option>
+				<option value="nike">Nike</option>
+				<option value="adidas">Adidas</option>
+				<option value="asics">Puma</option>
+				<option value="oneill">O'Neill</option>
+				<option value="fila">Fila</option>
+				<option value="reebok">Reebok</option>
+			</select>
+			<label for="color">Color</label>
+			<select id="color" name="color">
+				<option value="all">All</option>
+				<option value="red">Red</option>
+				<option value="blue">Blue</option>
+				<option value="green">Green</option>
+			</select>
+			<label for="price">Price Range</label>
 			<h2 id="h2">Filters</h2>
 			<label for="brand-filter">Schoenmerk:</label>
 	<select id="brand-filter">

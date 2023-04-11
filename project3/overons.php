@@ -113,7 +113,7 @@
     <h2>Diego Ballestero Rietveldt</h2>
     <div>
     <p class="OverOnsP">Diego</p>
-  <img src="img/kummma.jpeg" alt="">
+  <img src="img/IMG_1283.JPG" alt="">
   </div>
   </article>
   <article class="Aryan, OverOnsArticle">
