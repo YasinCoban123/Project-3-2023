@@ -164,9 +164,11 @@ aside {
 aside #h2 {
   margin-top: 0;
   color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 aside label {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   display: block;
   margin-bottom: 5px;
 }
@@ -217,12 +219,28 @@ aside button {
   margin-bottom: 10px;
 }
 
-.section_shoes #h3 {
+.section_shoes h3 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   margin-top: 0;
   margin-bottom: 5px;
   font-size: 20px;
   font-weight: bold;
+  color: white;
 }
+.section_shoes p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 15px;
+  padding: 2px;
+  font-weight: bold;
+  color: white;
+}
+.section_shoes span {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 2px;
+  font-weight: bold;
+  color: white;
+}
+
 
 
 
