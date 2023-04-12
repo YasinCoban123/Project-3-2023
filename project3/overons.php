@@ -129,8 +129,8 @@
   <article class="Yasin, OverOnsArticle">
     <h2>Yasin Çoban</h2>
     <div>
-    <p class="OverOnsInfo">"Ik ben Yasin Coban en ik ben een ervaren manager bij Schoenreus. 
-      Ik heb hard gewerkt om mezelf op te werken tot mijn huidige positie als directeur van de inkoopafdeling. 
+    <p class="OverOnsInfo">"Ik ben Yasin Coban en ik ben geboren op 31 December 1901. 
+      Als ervaren manager bij Schoenreus heb ik hard gewerkt om mezelf op te werken tot mijn huidige positie als directeur van de inkoopafdeling. 
       Ik ben trots op wat ik heb bereikt en ik geniet nog steeds van elke dag die ik doorbreng in deze industrie."</p>
   <img src="img/fotoyasin2.jpeg" alt="">
   </div>
