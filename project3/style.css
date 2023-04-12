@@ -654,6 +654,16 @@ textarea {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
 
+#retourh2 {
+	position: relative;
+  padding: 1px;
+	margin-bottom: 10px;
+  display: flex;
+  justify-content: center ;
+  color: #fff;
+  font-family: 'Lucida Sans';
+}
+
 
 
 /* Footer */

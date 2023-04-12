@@ -29,7 +29,7 @@
         </article>
             <div class="retour_box">
                 <div class="right, retourneren">
-                <h2 id="contacth2">Retourneren</h2>
+                <h2 id="retourh2">Retourneren</h2>
                     <input type="text" class="field" placeholder="Naam en achternaam">
                     <input type="text" class="field" placeholder="Email">
                     <input type="text" class="field" placeholder="Telefoonnummer">
