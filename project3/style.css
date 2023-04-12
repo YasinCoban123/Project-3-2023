@@ -27,7 +27,7 @@ body {
 
 
 
-/* Nav */
+/* Nav: */
 
 
 
@@ -72,7 +72,7 @@ li a:hover:not(.active) {
 
 
 
-/* Homepagina */
+/* Home pagina: */
 
 
 
@@ -99,28 +99,24 @@ li a:hover:not(.active) {
 
 }
 
-
 .my_slides {
-  padding-bottom: 10%;
   padding-top: 10%;
+  padding-bottom: 10%;
+  padding-left: 10%;
   background: #d9d9d9;
 }
 
-
-/* Slideshow container */
 .slideshow-container {
   max-width: 100%;  
   position: relative;
   margin: auto;
 }
 
-/* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
   position: absolute;
   top: 50%;
   width: auto;
-
   padding: 16px;
   color: white;
   font-weight: bold;
@@ -178,7 +174,7 @@ li a:hover:not(.active) {
 
 
 
-/* Producten pagina */
+/* Producten pagina: */
 
 
 
@@ -286,7 +282,7 @@ aside button {
 
 
 
-/* Contact pagina. */
+/* Contact pagina: */
 
 
 
@@ -381,7 +377,7 @@ textarea {
 
 
 
-/* overons pagina */
+/* Over Ons pagina: */
 
 
 
@@ -492,21 +488,8 @@ textarea {
 }
 
 
-/* Retourneren. */
 
-
-
-.retour {
-  margin-bottom: 100px;
-}
-
-.retourneren{
-  width: 30vw;
-}
-
-
-
-/* schoenen */
+/* Alle schoenen pagina's: */
 
 
 
@@ -581,9 +564,17 @@ textarea {
 
 
 
-/* Retourneren pagina */
+/* Retourneer pagina: */
 
 
+
+.retour {
+  margin-bottom: 100px;
+}
+
+.retourneren{
+  width: 30vw;
+}
 
 .retour_box {
   position: absolute;

@@ -38,6 +38,18 @@
         <button><a href="schoen1.php" class="koop_hier">Koop hier</a></button>
       </div>
 
+      <div class="my_slides">
+        <img src="img/reeboknfx.png" class="schoen_slides">
+        <div id="tekst">Reeboknfx</div>
+        <button><a href="schoen1.php" class="koop_hier">Koop hier</a></button>
+      </div>
+
+      <div class="my_slides">
+        <img src="img/nikeairmaxalphatrainer.png" class="schoen_slides">
+        <div id="tekst">Nike Air Max Alpha Trainer</div>
+        <button><a href="schoen1.php" class="koop_hier">Koop hier</a></button>
+      </div>
+
       <a class="prev" onclick="plusSlides(-1)">❮</a>
       <a class="next" onclick="plusSlides(1)">❯</a>
 
@@ -49,6 +61,8 @@
       <span class="dot" onclick="currentSlide(1)"></span> 
       <span class="dot" onclick="currentSlide(2)"></span> 
       <span class="dot" onclick="currentSlide(3)"></span> 
+      <span class="dot" onclick="currentSlide(4)"></span> 
+      <span class="dot" onclick="currentSlide(5)"></span> 
     </div>
   </div>
 
