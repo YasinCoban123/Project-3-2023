@@ -133,7 +133,7 @@
   <article class="Daniel, OverOnsArticle">
     <h2>Daniel Kuiper</h2>
     <div>
-    <p class="OverOnsP">Daniel</p>
+    <p class="OverOnsP">Mijn naam is daniel kuiper ik ben geboren in 1902 op 4 january in Rotterdam, en ik ben een van de eigenaren van schoenreus. Mijn rol in dit bedrijf is het regelen van problemen bij de klanten</p>
   <img src="img/kummma.jpeg" alt="">
   </div>
   </article>
