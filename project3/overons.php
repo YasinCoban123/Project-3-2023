@@ -89,22 +89,23 @@
               kun je iemand doodongeluk maken. Naar mijn mening zelfs ongelukkiger dan met schoenen 
               die pijn doen. Daarom doen we ons uiterste best om te zorgen dat schoenen elk seizoen mooier worden. 
               De korte communicatielijnen met de meeste van onze fabrikanten en hun open oor helpt enorm om 
-              de kloof tussen hippe en goede schoenen elk seizoen kleiner te maken.”</p> </br>
-            </br><h2>Toekomst</h2>
-            <div>
+              de kloof tussen hippe en goede schoenen elk seizoen kleiner te maken.”</p>
+              </article>
+        <section class="overons">
+          <article class="OverOnsArticle">
+          <h2>Toekomst</h2>
             <p class="OverOnsP">
-            “Sinds 2008 ervaren we dat onze klanten kritischer en veeleisender worden. 
-            Als de klant voorheen niet kon kiezen, was het vaak zo dat hij zei: “Ik neem ze allebei – of alle drie.” 
-            Die tijd is echt voorbij. Bij jonge ouders zien we steeds vaker dat ze meerdere winkels af gaan 
-            en bij elke zaak een paar schoenen apart laten zetten om even na te denken. 
-            Ouders die op zaterdag van ’s morgens 10:00 tot ’s avonds 17:00 uur met hun kleuter op pad zijn om 
-            de mooiste schoenen te vinden zijn geen uitzondering meer, sommige doen dit 
-            meerdere zaterdagen achter elkaar voordat ze uiteindelijk een beslissing nemen.
-            Ons antwoord op deze ontwikkeling is ons focussen op waar we goed in zijn: 
-            het grootste assortiment dames-, heren- en kinderschoenen in de wijde omtrek, voeten op blijven 
-            meten, eerlijk en deskundig advies geven en zorgen voor een scherpe prijsstelling. 
-            En voor wie extra op de prijs wil letten hebben we tegenover onze winkel een outlet.”</p>   
-            <div>       
+              “Sinds 2008 ervaren we dat onze klanten kritischer en veeleisender worden. 
+              Als de klant voorheen niet kon kiezen, was het vaak zo dat hij zei: “Ik neem ze allebei - of alle drie.” 
+              Die tijd is echt voorbij. Bij jonge ouders zien we steeds vaker dat ze meerdere winkels af gaan 
+              en bij elke zaak een paar schoenen apart laten zetten om even na te denken. 
+              Ouders die op zaterdag van 's morgens 10:00 tot 's avonds 17:00 uur met hun kleuter op pad zijn om 
+              de mooiste schoenen te vinden zijn geen uitzondering meer, sommige doen dit 
+              meerdere zaterdagen achter elkaar voordat ze uiteindelijk een beslissing nemen.
+              Ons antwoord op deze ontwikkeling is ons focussen op waar we goed in zijn: 
+              het grootste assortiment dames-, heren- en kinderschoenen in de wijde omtrek, voeten op blijven 
+              meten, eerlijk en deskundig advies geven en zorgen voor een scherpe prijsstelling. 
+              En voor wie extra op de prijs wil letten hebben we tegenover onze winkel een outlet.”</p>       
           </article>
         </section>
         <section class="overons">

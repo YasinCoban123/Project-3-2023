@@ -246,7 +246,6 @@ aside button {
 
 
 
-
 /* Contact pagina. */
 
 
@@ -342,31 +341,9 @@ textarea {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* overons pagina */
+
+
 
 .Diego {
   margin-top: 170px;
@@ -464,6 +441,12 @@ textarea {
   padding: 12vh 0px 6vh 0px;
 }
 
+
+
+/* Retourneren. */
+
+
+
 .retour {
   margin-bottom: 100px;
 }
@@ -474,9 +457,9 @@ textarea {
 
 
 
-
-
 /* schoenen */
+
+
 
 .schoenalles {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -486,39 +469,46 @@ textarea {
 
 .schoenfoto img {
   border: 2px solid rgb(0, 0, 0);
-float: left;
-margin-left: 50px;
-height: 500px;
-width: auto;
-margin-top: 40px;
-z-index: -1000000;
+  float: left;
+  margin-left: 50px;
+  height: 500px;
+  width: auto;
+  margin-top: 40px;
+  z-index: -1000000;
 }
+
 .schoentekst {
-color: white;
-margin-left: 1000px;
+  color: white;
+  margin-left: 1000px;
 }
+
 .schoentekst h2 {
   font-size: 40px;
   margin-bottom: 7px;
 }
-.schoentekst #schoenprijs{
+
+.schoentekst #schoenprijs {
   font-size: 22px;
   margin-top: 10px;
   padding-bottom: 10px;
 }
+
 .schoenmaten {
   margin-left: 1000px;
 }
+
 .schoenmaten button {
-height: 25px;
-width: 55px;
-cursor:grab;
-font-size: 17px;
+  height: 25px;
+  width: 55px;
+  cursor:grab;
+  font-size: 17px;
 }
+
 .schoenkopenenwinkelwagen {
   margin-left: 1000px;
 }
-.schoenkopenenwinkelwagen #schoenkoopnu{
+
+.schoenkopenenwinkelwagen #schoenkoopnu {
   background: white;
   height: 40px;
   width: 150px;
@@ -526,12 +516,13 @@ font-size: 17px;
   cursor:grab;
   color:#000000;
 }
+
 .schoenkopenenwinkelwagen button {
   border: none;
   background: none;
   cursor:grab;
-  
 }
+
 .schoenkopenenwinkelwagen button img {
   margin-left: 60px;
   height: 60px;
