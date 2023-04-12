@@ -78,96 +78,38 @@ li a:hover:not(.active) {
 
 .schoen_preview {
   color: white;
-  position: absolute;
-  height: 80%;
+  position: relative;
+  height: 100vh;
   width: 100%;
   background: #1b1b1b;
-}
-
-.preview1 {
-  font-family: 'Lucida Sans';
-  left: 0%;
-  top: 20%;
-  position: absolute;
-  height: 400px;
-  width: 400px;
-  background: #d9d9d9;
-  color: #000000;
-}
-
-.nike_air_max_alpha {
-  height: 150px;
-  background: #d9d9d9;
-}
-
-.preview2 {
-  font-family: 'Lucida Sans';
-  left: 44%;
-  top: 20%;
-  position: absolute;
-  height: 400px;
-  width: 400px;
-  background: #d9d9d9;
-  color: #000000;
-}
-
-.nike_air_max_systm {
-  height: 150px;
-  background: #d9d9d9;
-}
-
-.preview3 {
-  font-family: 'Lucida Sans';
-  right: 0%;
-  top: 20%;
-  position: absolute;
-  height: 400px;
-  width: 400px;
-  background: #d9d9d9;
-  color: #000000;
-}
-
-.nike_sock_dart {
-  height: 150px;
-  background: #d9d9d9;
 }
 
 .koop_hier {
   font-family: 'Lucida Sans';
   text-decoration: none;
   background-color: #1c87c9;
-  border: none;
   color: white;
-  padding: 20px 34px;
+  padding: 7px;
   text-align: center;
-  text-decoration: none;
+  position: absolute;
   display: inline-block;
   font-size: 20px;
-  margin: 4px 2px;
-  cursor: pointer;
+  bottom: 18%;
+  right: 15%;
+
 }
-
-#recommendation_tekst {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  top: 5%;
-  left: 20%;
-  position: absolute
-}
-
-
-
-
 
 
 .my_slides {
-  display: none;
+  padding-bottom: 10%;
+  padding-top: 10%;
   background: #d9d9d9;
 }
 
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 90%;  
+  max-width: 100%;  
   position: relative;
   margin: auto;
 }
@@ -178,8 +120,8 @@ li a:hover:not(.active) {
   position: absolute;
   top: 50%;
   width: auto;
+
   padding: 16px;
-  margin-top: -22px;
   color: white;
   font-weight: bold;
   font-size: 18px;
@@ -188,54 +130,51 @@ li a:hover:not(.active) {
   user-select: none;
 }
 
-/* Position the "next button" to the right */
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
 
-/* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
 }
 
-
-.tekst {
+#tekst {
+  font-family: 'Lucida Sans';
   color: black;
   font-size: 20px;
   padding-top: 8px;
   position: absolute;
-  top: 0%;
-  left: 10%;
+  top: 6%;
+  right: 14%;
 }
 
+.home_dots {
+  position: absolute;
+  bottom: 20%;
+  right: 50%;
+}
 
-
-/* The dots/bullets/indicators */
 .dot {
   cursor: pointer;
   height: 15px;
   width: 15px;
   margin: 0 2px;
-  background-color: #d9d9d9;
+  background-color: #252525;
   border-radius: 50%;
   display: inline-block;
   transition: background-color 0.6s ease;
 }
 
 .active, .dot:hover {
-  background-color: #717171;
+  background-color: #979797;
 }
-
-
-
 
 .schoen_slides {
   background: #d9d9d9;
-
-  height: 500px;
+  left: 10%;
+  height: 300px;
 }
-
 
 
 
@@ -513,10 +452,12 @@ textarea {
 
 .OverOnsP {
   margin-top: 2vh;
+  width: 100%;
   color: white;
 }
 
 .OverOnsInfo {
+  width: 70%;
   margin-top: 2vh;
   margin-right: 45px;
   color: white;
@@ -542,6 +483,13 @@ textarea {
   padding: 12vh 0px 6vh 0px;
 }
 
+.over_leden_article {
+  color: #1a222c;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 12vh 0px 6vh 0px;
+}
 
 
 /* Retourneren. */
