@@ -50,25 +50,25 @@
   <img src="img/nikesockdartprem.png" class="schoen_slides">
 </div>
 -->
-<div class="schoen_preview">
-<div class="slideshow-container">
+  <div class="schoen_preview">
+  <div class="slideshow-container">
 
 <div class="my_slides fade">
   <img src="img/nikeairmaxalpha.png" class="schoen_slides">
   <div class="tekst">Nike Air Max Alpha Smoke Grey</div>
-  <button><a href="schoen2.php">Koop hier</a></button>
+  <button><a href="schoen2.php" class="koop_hier">Koop hier</a></button>
 </div>
 
 <div class="my_slides fade">
   <img src="img/nikeairmaxsystm.png" class="schoen_slides">
   <div class="tekst">Nike Air Max Grey Blue</div>
-  <button><a href="schoen3.php">Koop hier</a></button>
+  <button><a href="schoen3.php" class="koop_hier">Koop hier</a></button>
 </div>
 
 <div class="my_slides fade">
   <img src="img/nikesockdartprem.png" class="schoen_slides">
   <div class="tekst">Nike Sock Dart Premium Orange</div>
-  <button><a href="schoen1.php">Koop hier</a></button>
+  <button><a href="schoen1.php" class="koop_hier">Koop hier</a></button>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
