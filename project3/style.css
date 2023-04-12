@@ -643,6 +643,12 @@ textarea {
   right: 2%;
 }
 
+.retour_p {
+  margin-top: 3vh;
+  color: white;
+  padding-bottom: 3vh;
+}
+
 .retour_info {
   position: absolute;
   left: 5%;
@@ -659,7 +665,7 @@ textarea {
   padding: 1px;
 	margin-bottom: 10px;
   display: flex;
-  justify-content: center ;
+  justify-content: center;
   color: #fff;
   font-family: 'Lucida Sans';
 }
