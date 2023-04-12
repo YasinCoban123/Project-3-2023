@@ -12,7 +12,7 @@
 <?php include 'navbar.php'; ?>
   <section>
 		<aside>
-			<h2 id="h2">Filters</h2>
+			<h2 id="h2">Filters</h2> <br> <br>
 			<label for="brand-filter">Schoenmerk:</label>
 	<select id="brand-filter">
 		<option value="">Alles</option>
@@ -25,6 +25,7 @@
 		<option value="fila">Fila</option>
 	</select>
 
+<br> <br>
 	<label for="size-filter">Schoenmaat:</label>
 	<select id="size-filter">
 		<option value="">All</option>
@@ -38,6 +39,7 @@
 		<option value="12">44</option>
 </select>
 
+<br> <br>
 	    <label for="price-filter">Price:</label>
 			<input type="range" id="price" name="price" min="20" max="150">
 			<span id="price-value"></span>
