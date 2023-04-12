@@ -456,6 +456,7 @@ textarea {
 }
 
 .OverOnsInfo {
+  width: 70%;
   margin-top: 2vh;
   margin-right: 45px;
   color: white;

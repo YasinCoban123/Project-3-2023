@@ -116,7 +116,7 @@
     <p class="OverOnsInfo">"Ik ben Diego, geboren op 5 mei 1905, en ik ben één van de trotse oprichters van SchoenReus.
        Ik werk in de management afdeling en focus me op controle en leiding.
        Het is mijn taak om ervoor te zorgen dat we een schoenen paar vinden die jij gegarandeerd gaat aanspreken."</p>
-  <img src="img/IMG_1283.JPG" alt="">
+  <img src="img/fotodiego.JPG" alt="">
   </div>
   </article>
   <article class="Aryan, OverOnsArticle">
