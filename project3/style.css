@@ -9,7 +9,7 @@ body {
   background: #595757;
 }
 
-.logo {
+.logo img{
   height: 110px;
   width: auto;
   position: absolute;
@@ -17,7 +17,7 @@ body {
   box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.3);
 }
 
-.mandje {
+.mandje img{
   height: 80px;
   width: auto;
   position: absolute;
