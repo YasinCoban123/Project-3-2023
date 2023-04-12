@@ -126,14 +126,14 @@
   <article class="Yasin, OverOnsArticle">
     <h2>Yasin Çoban</h2>
     <div>
-    <p class="OverOnsP">Yasin.</p>
+    <p class="OverOnsP">Ik ben Yasin Coban en ik ben een ervaren manager bij Schoenreus. Ik heb hard gewerkt om mezelf op te werken tot mijn huidige positie als directeur van de inkoopafdeling. Ik ben trots op wat ik heb bereikt en ik geniet nog steeds van elke dag die ik doorbreng in deze industrie.</p>
   <img src="img/fotoyasin2.jpeg" alt="">
   </div>
   </article>
   <article class="Daniel, OverOnsArticle">
     <h2>Daniel Kuiper</h2>
     <div>
-    <p class="OverOnsP">Daniel</p>
+    <p class="OverOnsP">Mijn naam is daniel kuiper ik ben geboren in 1902 op 4 january in Rotterdam, en ik ben een van de eigenaren van schoenreus. Mijn rol in dit bedrijf is het regelen van problemen bij de klanten</p>
   <img src="img/kummma.jpeg" alt="">
   </div>
   </article>
@@ -141,7 +141,7 @@
     <h2>Berkay Onal</h2>
     <div>
     <p class="OverOnsP"></p>
-  <img src="img/kummma.jpeg" alt="">
+  <img src="img/fotoberkay.jpeg" alt="">
   </div>
   </article>
         </section>
