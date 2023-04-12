@@ -114,7 +114,7 @@
 				<div class="section_shoes">
 				<a href="schoen10.php"><img src="img/adidashoops.webp" class="producten"></a>
 					<h3>Adidas Hoops 3.0 </h3>
-					<p>The iconic 3-Stripes on the synthetic leather upper, plus a rubber cupsole underneath, creates a heritage vibe.</p>
+					<p>De iconische '3-Stripes' op het bovenwerk van synthetisch leer, plus een rubberen cupzool eronder, creëren een historische sfeer.</p>
 					<span>$39,99</span>
 				</div>
 

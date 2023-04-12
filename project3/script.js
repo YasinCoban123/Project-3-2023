@@ -1,90 +1,37 @@
-var brandFilter = document.getElementById("brand-filter");
-var sizeFilter = document.getElementById("size-filter");
 
-// Get the shoe list element
-var shoeList = document.getElementById("shoe-list");
-
-// Initialize the price range slider
-var slider = document.getElementById("price");
-noUiSlider.create(slider, {
-start: [20, 150],
-step: 1,
-connect: true,
-format: wNumb({
-decimals: 0,
-prefix: '€'
-}),
-range: {
-'min': 20,
-'max': 150
-},
-handles: 2
-});
-var priceValue = document.getElementById("price-value");
-slider.noUiSlider.on('update', function (values, handle) {
-var value = values[handle];
-priceValue.innerHTML = value;
-});
-
-// Get the filter button element
-var filterButton = document.getElementById("filter-button");
-
-// Add event listeners to the filter elements
-brandFilter.addEventListener("change", filterShoes);
-sizeFilter.addEventListener("change", filterShoes);
-slider.noUiSlider.on('change', filterShoes);
-filterButton.addEventListener("click", filterShoes);
-
-// Define the filter function
-function filterShoes() {
-// Get the selected values from the filter elements
-var selectedBrand = brandFilter.value;
-var selectedSize = sizeFilter.value;
-var selectedPrice = slider.noUiSlider.get();
-
-// Loop through all shoes in the list
-for (var i = 0; i < shoeList.children.length; i++) {
-var shoe = shoeList.children[i];
-// Check if the shoe matches the selected filter values
-var brandMatch = selectedBrand === "" || shoe.dataset.brand === selectedBrand;
-var sizeMatch = selectedSize === "" || shoe.dataset.size === selectedSize;
-var priceMatch = parseInt(shoe.dataset.price) >= parseInt(selectedPrice[0]) && parseInt(shoe.dataset.price) <= parseInt(selectedPrice[1]);
-
-// Show or hide the shoe based on the filter matches
-if (brandMatch && sizeMatch && priceMatch) {
-  shoe.style.display = "block";
-} else {
-  shoe.style.display = "none";
-}
-}
-}
-
-
-
-
-let slideIndex = 1;
-showSlides(slideIndex);
-
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
-
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
-
-function showSlides(n) {
-  let i;
-  let slides = document.getElementsByClassName("mySlides");
-  let dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
+function filterobjects(c){
+  var x, i;
+  x = document.getElementsByClassName("box");
+  if (c === "all") { // Fixed comparison operator from assignment operator
+    c = "";
   }
-  for (i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" active", "");
+  for (i = 0; i < x.length; i++) {
+    removeClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) {
+      addClass(x[i], "show");
+    }
   }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
+}
+
+function addClass(element, name){
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    if (arr1.indexOf(arr2[i]) === -1) { // Fixed comparison operator from assignment operator
+      element.className += " " + arr2[i];
+    }
+  }
+}
+
+function removeClass(element, name){
+  var i, arr1, arr2; // Fixed variable name from arrl to arr1
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) { // Fixed variable name from arrı to arr1
+      arr1.splice(arr1.indexOf(arr2[i]), 1); // Fixed variable name from arrı to arr1
+    }
+  }
+  element.className = arr1.join(" ");
 }
