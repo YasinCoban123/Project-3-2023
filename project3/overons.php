@@ -110,7 +110,7 @@
         </section>
         <section class="overons">
       <h2>Wie werken er bij ons</h2>
-  <article class="OverOnsArticle">
+  <article class="over_leden_article">
     <h2>Diego Ballestero Rietveldt</h2>
     <div>
     <p class="OverOnsInfo">"Ik ben Diego, geboren op 5 mei 1905, en ik ben één van de trotse oprichters van SchoenReus.
@@ -119,14 +119,14 @@
   <img src="img/fotodiego.JPG" alt="">
   </div>
   </article>
-  <article class="Aryan, OverOnsArticle">
+  <article class="Aryan, over_leden_article">
     <h2>Aryan Bhagwat</h2>
     <div>
     <p class="OverOnsInfo">Aryan.</p>
   <img src="img/kummma.jpeg" alt="">
   </div>
   </article>
-  <article class="Yasin, OverOnsArticle">
+  <article class="Yasin, over_leden_article">
     <h2>Yasin Çoban</h2>
     <div>
     <p class="OverOnsInfo">"Ik ben Yasin Coban en ik ben een ervaren manager bij Schoenreus. 
@@ -135,16 +135,16 @@
   <img src="img/fotoyasin2.jpeg" alt="">
   </div>
   </article>
-  <article class="Daniel, OverOnsArticle">
+  <article class="Daniel, over_leden_article">
     <h2>Daniel Kuiper</h2>
     <div>
-    <p class="OverOnsInfo">"Mijn naam is daniel kuiper ik ben geboren in 1902 op 4 january in Rotterdam, 
-      en ik ben een van de eigenaren van schoenreus. 
+    <p class="OverOnsInfo">"Mijn naam is Daniel Kuiper. Ik ben geboren in 1902 op 4 january in Rotterdam, 
+      en ik ben één van de eigenaren van Schoenreus. 
       Mijn rol in dit bedrijf is het regelen van problemen bij de klanten."</p>
   <img src="img/kummma.jpeg" alt="">
   </div>
   </article>
-  <article class="Berkay, OverOnsArticle">
+  <article class="Berkay, over_leden_article">
     <h2>Berkay Onal</h2>
     <div>
     <p class="OverOnsInfo">Breki anul.</p>
