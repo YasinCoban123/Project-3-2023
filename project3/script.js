@@ -1,48 +1,54 @@
-// Get filter elements
-const brandFilter = document.getElementById('brand');
-const colorFilter = document.getElementById('color');
+const brandFilter = document.getElementById('brand-filter');
+const sizeFilter = document.getElementById('size-filter');
 const priceFilter = document.getElementById('price');
 const priceValue = document.getElementById('price-value');
+const filterButton = document.getElementById('filter-button');
+const products = document.querySelectorAll('.products');
 
-// Get product elements
-const products = document.querySelectorAll('.section_shoes');
+// Event listener for brand filter
+brandFilter.addEventListener('change', () => {
+  filterProducts();
+});
 
-// Initialize filter values
-let selectedBrand = brandFilter.value;
-let selectedColor = colorFilter.value;
-let selectedPrice = priceFilter.value;
+// Event listener for size filter
+sizeFilter.addEventListener('change', () => {
+  filterProducts();
+});
 
-// Listen for changes to the filter options
-brandFilter.addEventListener('change', updateFilters);
-colorFilter.addEventListener('change', updateFilters);
-priceFilter.addEventListener('input', updateFilters);
+// Event listener for price filter
+priceFilter.addEventListener('input', () => {
+  priceValue.innerText = priceFilter.value;
+});
 
-function updateFilters() {
-  // Get updated filter values
-  selectedBrand = brandFilter.value;
-  selectedColor = colorFilter.value;
-  selectedPrice = priceFilter.value;
+// Function to filter products based on selected filters
+function filterProducts() {
+  for (let i = 0; i < products.length; i++) {
+    const product = products[i];
 
-  // Filter the products based on the selected filters
-  products.forEach(product => {
-    const brand = product.querySelector('h3').textContent.toLowerCase();
-    const color = product.querySelector('img').getAttribute('src').split('.')[0].split('/').pop().toLowerCase();
-    const price = Number(product.querySelector('span').textContent.slice(1));
-
-    if ((selectedBrand === 'alles' || brand === selectedBrand) &&
-        (selectedColor === 'all' || color.includes(selectedColor)) &&
-        (price <= selectedPrice)) {
-      product.style.display = 'block';
-    } else {
+    // Check if product matches selected brand filter
+    if (brandFilter.value && product.dataset.brand !== brandFilter.value) {
       product.style.display = 'none';
+      continue;
     }
-  });
 
-  // Display the selected filter options to the user
-  priceValue.textContent = `€${selectedPrice}`;
+    // Check if product matches selected size filter
+    if (sizeFilter.value && product.dataset.size !== sizeFilter.value) {
+      product.style.display = 'none';
+      continue;
+    }
+
+    // Check if product matches selected price filter
+    if (product.dataset.price > priceFilter.value) {
+      product.style.display = 'none';
+      continue;
+    }
+
+    // If product matches all filters, display it
+    product.style.display = 'block';
+  }
 }
 
-let background = document.querySelector('.background').getBoundingClientRect();
-var audio = document.getElementById("musicc");
-audio.loop = true;
-audio.play();
+// Event listener for filter button
+filterButton.addEventListener('click', () => {
+  filterProducts();
+});

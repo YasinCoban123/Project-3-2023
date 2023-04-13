@@ -17,29 +17,85 @@
     <source src="img/achtergrondvideo.ogv" type="video/ogg">
 	</video>
   -->
+
+  <div class="schoen_preview">
+    <div class="slideshow-container">
+      <div class="my_slides">
+        <img src="img/nikeairmaxalpha.png" class="schoen_slides">
+        <div id="tekst">Nike Air Max Alpha Smoke Grey</div>
+        <button><a href="schoen2.php" class="koop_hier">Koop hier</a></button>
+      </div>
+
+      <div class="my_slides">
+        <img src="img/nikeairmaxsystm.png" class="schoen_slides">
+        <div id="tekst">Nike Air Max Grey Blue</div>
+        <button><a href="schoen3.php" class="koop_hier">Koop hier</a></button>
+      </div>
+
+      <div class="my_slides">
+        <img src="img/nikesockdartprem.png" class="schoen_slides">
+        <div id="tekst">Nike Sock Dart Premium Orange</div>
+        <button><a href="schoen1.php" class="koop_hier">Koop hier</a></button>
+      </div>
+
+      <div class="my_slides">
+        <img src="img/reeboknfx.png" class="schoen_slides">
+        <div id="tekst">Reeboknfx</div>
+        <button><a href="schoen1.php" class="koop_hier">Koop hier</a></button>
+      </div>
+
+      <div class="my_slides">
+        <img src="img/nikeairmaxalphatrainer.png" class="schoen_slides">
+        <div id="tekst">Nike Air Max Alpha Trainer</div>
+        <button><a href="schoen1.php" class="koop_hier">Koop hier</a></button>
+      </div>
+
+      <a class="prev" onclick="plusSlides(-1)">❮</a>
+      <a class="next" onclick="plusSlides(1)">❯</a>
+
+    </div>
+
+  <br>
+
+    <div class="home_dots" style="text-align:center">
+      <span class="dot" onclick="currentSlide(1)"></span> 
+      <span class="dot" onclick="currentSlide(2)"></span> 
+      <span class="dot" onclick="currentSlide(3)"></span> 
+      <span class="dot" onclick="currentSlide(4)"></span> 
+      <span class="dot" onclick="currentSlide(5)"></span> 
+    </div>
+  </div>
+
+
+<script>
+
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("my_slides");
+  let dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}</script>
   
- 
-    <div class="preview1">
-      <img src="img/nikeairmaxalpha.webp" class="nike_air_max_alpha">
-        <p>Nike Air Max Alpha Smoke Grey</p>
-      <a href="">Koop hier</a>
-    </div>
-
-    <div class="preview2">
-      <img src="img/nikeairmaxsystm.webp" class="nike_air_max_system">
-        <p>Nike Air Max Grey Blue</p>
-      <a href="">Koop hier</a>
-    </div>
-
-    <div class="preview3">
-      <img src="img/nikesockdartprem.webp" class="nike_sock_dart">
-        <p>Nike Sock Dart Premium Orange</p>
-      <a href="">Koop hier</a>
-    </div>
-
-      <h1 id="recommendation_tekst">Producten die we aanraden.</h1>
-      
-    
 <?php include 'footer.php'; ?>
 <audio id="backgroundtrack" src="mussic.mp3"></audio>
 <script src="script.js"></script>

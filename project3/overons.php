@@ -89,59 +89,66 @@
               kun je iemand doodongeluk maken. Naar mijn mening zelfs ongelukkiger dan met schoenen 
               die pijn doen. Daarom doen we ons uiterste best om te zorgen dat schoenen elk seizoen mooier worden. 
               De korte communicatielijnen met de meeste van onze fabrikanten en hun open oor helpt enorm om 
-              de kloof tussen hippe en goede schoenen elk seizoen kleiner te maken.”</p> </br>
-            </br><h2>Toekomst</h2>
-            <div>
+              de kloof tussen hippe en goede schoenen elk seizoen kleiner te maken.”</p>
+              </article>
+        <section class="overons">
+          <article class="OverOnsArticle">
+          <h2>Toekomst</h2>
             <p class="OverOnsP">
-            “Sinds 2008 ervaren we dat onze klanten kritischer en veeleisender worden. 
-            Als de klant voorheen niet kon kiezen, was het vaak zo dat hij zei: “Ik neem ze allebei – of alle drie.” 
-            Die tijd is echt voorbij. Bij jonge ouders zien we steeds vaker dat ze meerdere winkels af gaan 
-            en bij elke zaak een paar schoenen apart laten zetten om even na te denken. 
-            Ouders die op zaterdag van ’s morgens 10:00 tot ’s avonds 17:00 uur met hun kleuter op pad zijn om 
-            de mooiste schoenen te vinden zijn geen uitzondering meer, sommige doen dit 
-            meerdere zaterdagen achter elkaar voordat ze uiteindelijk een beslissing nemen.
-            Ons antwoord op deze ontwikkeling is ons focussen op waar we goed in zijn: 
-            het grootste assortiment dames-, heren- en kinderschoenen in de wijde omtrek, voeten op blijven 
-            meten, eerlijk en deskundig advies geven en zorgen voor een scherpe prijsstelling. 
-            En voor wie extra op de prijs wil letten hebben we tegenover onze winkel een outlet.”</p>   
-            <div>       
+              “Sinds 2008 ervaren we dat onze klanten kritischer en veeleisender worden. 
+              Als de klant voorheen niet kon kiezen, was het vaak zo dat hij zei: “Ik neem ze allebei - of alle drie.” 
+              Die tijd is echt voorbij. Bij jonge ouders zien we steeds vaker dat ze meerdere winkels af gaan 
+              en bij elke zaak een paar schoenen apart laten zetten om even na te denken. 
+              Ouders die op zaterdag van 's morgens 10:00 tot 's avonds 17:00 uur met hun kleuter op pad zijn om 
+              de mooiste schoenen te vinden zijn geen uitzondering meer, sommige doen dit 
+              meerdere zaterdagen achter elkaar voordat ze uiteindelijk een beslissing nemen.
+              Ons antwoord op deze ontwikkeling is ons focussen op waar we goed in zijn: 
+              het grootste assortiment dames-, heren- en kinderschoenen in de wijde omtrek, voeten op blijven 
+              meten, eerlijk en deskundig advies geven en zorgen voor een scherpe prijsstelling. 
+              En voor wie extra op de prijs wil letten hebben we tegenover onze winkel een outlet.”</p>       
           </article>
         </section>
         <section class="overons">
-          <h2>Wie werken er bij ons</h2>
-          <article class="OverOnsArticle">
+      <h2>Wie werken er bij ons</h2>
+  <article class="over_leden_article">
     <h2>Diego Ballestero Rietveldt</h2>
     <div>
-    <p class="OverOnsP">Diego</p>
-  <img src="img/kummma.jpeg" alt="">
+    <p class="OverOnsInfo">"Ik ben Diego, geboren op 5 mei 1905, en ik ben één van de trotse oprichters van SchoenReus.
+       Ik werk in de management afdeling en focus me op controle en leiding.
+       Het is mijn taak om ervoor te zorgen dat we een schoenen paar vinden die jij gegarandeerd gaat aanspreken."</p>
+  <img src="img/fotodiego.JPG" alt="">
   </div>
   </article>
-  <article class="Aryan, OverOnsArticle">
+  <article class="Aryan, over_leden_article">
     <h2>Aryan Bhagwat</h2>
     <div>
-    <p class="OverOnsP">Aryan.</p>
+    <p class="OverOnsInfo">Aryan.</p>
   <img src="img/kummma.jpeg" alt="">
   </div>
   </article>
-  <article class="Yasin, OverOnsArticle">
+  <article class="Yasin, over_leden_article">
     <h2>Yasin Çoban</h2>
     <div>
-    <p class="OverOnsP">Yasin.</p>
+    <p class="OverOnsInfo">"Ik ben Yasin Coban en ik ben geboren op 31 December 1901. 
+      Als ervaren manager bij Schoenreus heb ik hard gewerkt om mezelf op te werken tot mijn huidige positie als directeur van de inkoopafdeling. 
+      Ik ben trots op wat ik heb bereikt en ik geniet nog steeds van elke dag die ik doorbreng in deze industrie."</p>
   <img src="img/fotoyasin2.jpeg" alt="">
   </div>
   </article>
-  <article class="Daniel, OverOnsArticle">
+  <article class="Daniel, over_leden_article">
     <h2>Daniel Kuiper</h2>
     <div>
-    <p class="OverOnsP">Daniel</p>
+    <p class="OverOnsInfo">"Mijn naam is Daniel Kuiper. Ik ben geboren in 1902 op 4 january in Rotterdam, 
+      en ik ben één van de eigenaren van Schoenreus. 
+      Mijn rol in dit bedrijf is het regelen van problemen bij de klanten."</p>
   <img src="img/kummma.jpeg" alt="">
   </div>
   </article>
-  <article class="Berkay, OverOnsArticle">
+  <article class="Berkay, over_leden_article">
     <h2>Berkay Onal</h2>
     <div>
-    <p class="OverOnsP"></p>
-  <img src="img/kummma.jpeg" alt="">
+    <p class="OverOnsInfo">Breki anul.</p>
+  <img src="img/fotoberkay.jpeg" alt="">
   </div>
   </article>
         </section>

@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <link rel="icon" href="img/schoenreus logo.png" type="image/x-icon">
   <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="img/schoenreus logo.png" type="image/x-icon">
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Schoen 1</title>
+  <title>Schoen 4</title>
 </head>
 <body>
   <?php include 'navbar.php' ?>
   <div class="schoenfoto">
-  <img src="img/nikesockdartprem.webp" alt="" srcset="">
+  <img src="img/reeboknfx.webp" alt="" srcset="">
   </div>
   <div class="schoenalles">
   <div class="schoentekst">
-    <h2>Nike Sock Dart Premium</h2>
-    <p id="schoenprijs">Prijs: €89,99 </p>
-    <p>Deze sneakers van Nike trek je eenvoudig aan dankzij de elastische instap hebben ze een comfortabele pasvorm.</p>
+    <h2>Reebok NFX</h2>
+    <p id="schoenprijs">Prijs: €49,99 </p>
+    <p>Reebok NFX-schoenen zijn ontworpen om je mee te nemen op een actieve dag.</p>
   </div>
   <br>
   <div class="schoenmaten">
@@ -34,7 +34,7 @@
   <br>
   <br>
   <div class="schoenkopenenwinkelwagen">
-    <button id="schoenkoopnu">Koop nu</button>
+  <button id="schoenkoopnu">Koop nu</button>
   <button><img src="img/winkelwagenicoon2.png" alt="" srcset=""></button>
   </div>
   </div>

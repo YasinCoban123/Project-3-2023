@@ -8,7 +8,7 @@
 </head>
 <body>
   <footer>
-    <p id="footer_tekst">©Yasin, Berkay, Daniel, Aryan en Diego.</p>
+    <p id="footer_tekst">©Yasin, Aryan, Berkay, Daniel en Diego.</p>
   </footer>
 </body>
 </html>
