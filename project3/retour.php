@@ -27,20 +27,24 @@
                 </div> </br>
             </div>
         </article>
-            <div class="retour_box">
+        <div class="retour_box">
+            <form method="post" action="">
                 <div class="right, retourneren">
                 <h2 id="retourh2">Retourneren</h2>
-                    <input type="text" class="field" placeholder="Naam en achternaam">
-                    <input type="text" class="field" placeholder="Email">
-                    <input type="text" class="field" placeholder="Telefoonnummer">
-                    <input type="text" class="field" placeholder="Order Number">
-                    <textarea placeholder="Reden voor retourneren" class="field"></textarea>
-                    <button class="contactbtn">Verstuur</button>
+                    <input type="text" class="field" name="naam" id="naam" placeholder="Naam en achternaam">
+                    <input type="email" class="field" name="email" id="email" placeholder="Email">
+                    <input type="number" class="field" name="telefoonnummer" id="telefoonnummer" placeholder="Telefoonnummer">
+                    <input type="number" class="field" name="ordernummer" id="ordernummer" placeholder="Order Nummer">
+                    <textarea class="field" name="reden" id="reden" placeholder="Reden voor retourneren"></textarea>
+                    <input type="submit" class="contactbtn" name="knop"
+                    id="knop" onclick="alert('Bedankt voor je feedback.')"></input>
                 </div>
-            </div>
+            </form>
+        </div>
     </main>
 
-    <div class="pusher"></div>
+<?php include 'retour_actionpage.php'?>
+
 <?php include 'footer.php'; ?>
 </body>
 </html>

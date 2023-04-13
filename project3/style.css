@@ -365,6 +365,13 @@ aside button {
 	transition: .3s;
 }
 
+/* Voor de telefoonnummer pijltjes. */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
 textarea {
 	min-height: 150px;
 }
