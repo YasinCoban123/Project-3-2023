@@ -135,14 +135,26 @@ li a:hover:not(.active) {
   background-color: rgba(0,0,0,0.8);
 }
 
-#tekst {
+#schoen_tekst {
   font-family: 'Lucida Sans';
   color: black;
   font-size: 20px;
   padding-top: 8px;
   position: absolute;
   top: 6%;
-  right: 14%;
+  right: 6%;
+  width: 30%;
+}
+
+#schoen_info {
+  font-family: 'Lucida Sans';
+  color: black;
+  font-size: 12px;
+  padding-top: 8px;
+  position: absolute;
+  top: 12%;
+  right: 10%;
+  width: 30%;
 }
 
 .home_dots {

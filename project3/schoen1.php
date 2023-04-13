@@ -17,7 +17,8 @@
   <div class="schoentekst">
     <h2>Nike Sock Dart Premium</h2>
     <p id="schoenprijs">Prijs: €89,99 </p>
-    <p>Deze sneakers van Nike trek je eenvoudig aan dankzij de elastische instap hebben ze een comfortabele pasvorm.</p>
+    <p>Deze sneakers van Nike trek je eenvoudig aan dankzij de 
+      elastische instap hebben ze een comfortabele pasvorm.</p>
   </div>
   <br>
   <div class="schoenmaten">
