@@ -51,7 +51,7 @@ $connection = null;
 
 
 
-// Delete functies.
+// Delete functies
 
 
 if (isset($_GET['id']) ) {
