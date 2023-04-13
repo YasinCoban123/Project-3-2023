@@ -86,7 +86,7 @@
 					<div class="section_shoes">
 					<a href="schoen6.php"><img src="img/pumaxrayspeed.webp" class="producten"></a>
 					<h3>Puma X-ray Speed</h3>
-					<p>De X-Ray Speed ​​is licht en wendbaar, waardoor je snel op de been blijft.</p>
+					<p>De X-Ray Speed is licht en wendbaar, waardoor je snel op de been blijft.</p>
 					<span>$74,99</span>
 				</div>
 
