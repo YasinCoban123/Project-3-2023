@@ -147,8 +147,8 @@
   <article class="Berkay, over_leden_article">
     <h2>Berkay Onal</h2>
     <div>
-    <p class="OverOnsInfo">Hallo, mijn naam is Berkay Onal. en ik ben 111 jaar oud
-      Ik heb jarenlange ervaring als manager van marketing bij Schoenreus. Ik heb een schat aan kennis opgedaan in de schoenenindustrie en heb talloze succesvolle strategieën bedacht en uitgevoerd. 
+    <p class="OverOnsInfo">Hallo, mijn naam is Berkay Onal en ik ben geboren op 20 april 1889.
+      Ik heb 369 jaar lang ervaring als manager van marketing bij Schoenreus. Ik heb een schat aan kennis opgedaan in de schoenenindustrie en heb talloze succesvolle strategieën bedacht en uitgevoerd. 
       Ik ben gepassioneerd door mijn werk en streef er altijd naar om het beste te halen uit mijn team en de organisatie.</p>
   <img src="img/fotoberkay.jpeg" alt="">
   </div>

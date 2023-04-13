@@ -35,7 +35,7 @@ s<!DOCTYPE html>
   <br>
   <div class="schoenkopenenwinkelwagen">
   <button id="schoenkoopnu">Koop nu</button>
-  <button><img src="img/winkelwagenicoon2.png" alt="" srcset=""></button>
+  <a href="winkelwagen.php"><button><img src="img/winkelwagenicoon2.png" alt="" srcset=""></button></a>
   </div>
   </div>
   <?php include 'footer.php' ?>
