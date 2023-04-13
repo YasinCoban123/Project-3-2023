@@ -1,37 +1,54 @@
+const brandFilter = document.getElementById('brand-filter');
+const sizeFilter = document.getElementById('size-filter');
+const priceFilter = document.getElementById('price');
+const priceValue = document.getElementById('price-value');
+const filterButton = document.getElementById('filter-button');
+const products = document.querySelectorAll('.products');
 
-function filterobjects(c){
-  var x, i;
-  x = document.getElementsByClassName("box");
-  if (c === "all") { // Fixed comparison operator from assignment operator
-    c = "";
-  }
-  for (i = 0; i < x.length; i++) {
-    removeClass(x[i], "show");
-    if (x[i].className.indexOf(c) > -1) {
-      addClass(x[i], "show");
+// Event listener for brand filter
+brandFilter.addEventListener('change', () => {
+  filterProducts();
+});
+
+// Event listener for size filter
+sizeFilter.addEventListener('change', () => {
+  filterProducts();
+});
+
+// Event listener for price filter
+priceFilter.addEventListener('input', () => {
+  priceValue.innerText = priceFilter.value;
+});
+
+// Function to filter products based on selected filters
+function filterProducts() {
+  for (let i = 0; i < products.length; i++) {
+    const product = products[i];
+
+    // Check if product matches selected brand filter
+    if (brandFilter.value && product.dataset.brand !== brandFilter.value) {
+      product.style.display = 'none';
+      continue;
     }
+
+    // Check if product matches selected size filter
+    if (sizeFilter.value && product.dataset.size !== sizeFilter.value) {
+      product.style.display = 'none';
+      continue;
+    }
+
+    // Check if product matches selected price filter
+    if (product.dataset.price > priceFilter.value) {
+      product.style.display = 'none';
+      continue;
+    }
+
+    // If product matches all filters, display it
+    product.style.display = 'block';
   }
 }
 
-function addClass(element, name){
-  var i, arr1, arr2;
-  arr1 = element.className.split(" ");
-  arr2 = name.split(" ");
-  for (i = 0; i < arr2.length; i++) {
-    if (arr1.indexOf(arr2[i]) === -1) { // Fixed comparison operator from assignment operator
-      element.className += " " + arr2[i];
-    }
-  }
-}
-
-function removeClass(element, name){
-  var i, arr1, arr2; // Fixed variable name from arrl to arr1
-  arr1 = element.className.split(" ");
-  arr2 = name.split(" ");
-  for (i = 0; i < arr2.length; i++) {
-    while (arr1.indexOf(arr2[i]) > -1) { // Fixed variable name from arrı to arr1
-      arr1.splice(arr1.indexOf(arr2[i]), 1); // Fixed variable name from arrı to arr1
-    }
-  }
-  element.className = arr1.join(" ");
-}
+// Event listener for filter button
+filterButton.addEventListener('click', () => {
+  filterProducts();
+});
