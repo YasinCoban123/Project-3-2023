@@ -16,7 +16,7 @@
   <div class="schoenalles">
   <div class="schoentekst">
     <h2>Nike Air Max System</h2>
-    <p id="schoenprijs">Prijs: €79,99 </p>
+    <p id="schoenprijs">Prijs: € 79,99 </p>
     <p>Je favoriete Max Air demping komt met serieuze jaren 80 flair in het Nike Air Max System.</p>
   </div>
   <br>

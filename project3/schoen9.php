@@ -16,7 +16,7 @@ s<!DOCTYPE html>
   <div class="schoenalles">
   <div class="schoentekst">
     <h2>Nike Air Max LTD 3</h2>
-    <p id="schoenprijs">Prijs:€ 109,99 </p>
+    <p id="schoenprijs">Prijs: € 109,99 </p>
     <p>De Nike Air LTD 3 voor heren heeft de Max Air-unit in de hak voor comfort en een leren bovenwerk voor duurzaamheid.</p>
   </div>
   <br>

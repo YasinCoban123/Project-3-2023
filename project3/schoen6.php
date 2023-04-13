@@ -17,7 +17,7 @@
   <div class="schoentekst">
     <h2>Puma X-ray Speed</h2>
     <p id="schoenprijs">Prijs: € 74,99</p>
-    <p>De X-Ray Speed ​​is licht en wendbaar, waardoor je snel op de been blijft.</p>
+    <p>De X-Ray Speed is licht en wendbaar, waardoor je snel op de been blijft.</p>
   </div>
   <br>
   <div class="schoenmaten">

@@ -17,8 +17,8 @@
   <div class="schoentekst">
     <h2>Adidas Hoops 3.0</h2>
     <p id="schoenprijs">Prijs: € 39,99 </p>
-    <p>The iconic 3-Stripes on the synthetic leather upper, plus a rubber cupsole underneath, create a heritage vibe.</p>
-  </div>
+    <p>De iconische 3-Stripes op de synthetische leren bovenkant, plus een rubbere cupzool eronder is wat het een comfortabele schoen maakt.</p>
+  </div>  
   <br>
   <div class="schoenmaten">
     <button>37</button>
