@@ -16,7 +16,7 @@
   <div class="schoenalles">
   <div class="schoentekst">
     <h2>Reebok NFX</h2>
-    <p id="schoenprijs">Prijs: €49,99 </p>
+    <p id="schoenprijs">Prijs: € 49,99 </p>
     <p>Reebok NFX-schoenen zijn ontworpen om je mee te nemen op een actieve dag.</p>
   </div>
   <br>
