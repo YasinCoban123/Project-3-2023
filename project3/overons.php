@@ -122,7 +122,9 @@
   <article class="Aryan, over_leden_article">
     <h2>Aryan Bhagwat</h2>
     <div>
-    <p class="OverOnsInfo">Aryan.</p>
+    <p class="OverOnsInfo">"Hallo ik ben Aryan Bhagwat en ik ben 17 jaar oude en ik werk als manager bij de schoenreus.
+      Ik ben al heel ervaren met schoenen winkels en werken aan een online schoenenwinkel is heel leuk en iets nieuws.
+      Ik hou ook van de team waarmee ik werk en vind deze industrie helemaal top."</p>
   <img src="img/kummma.jpeg" alt="">
   </div>
   </article>
