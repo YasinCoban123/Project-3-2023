@@ -74,7 +74,7 @@
           <h2 class="OverOnsH">Geschiedenis</h2>
             <p class="OverOnsP">SchoenReus is vanaf de allereerste dag - ruim 90 jaar geleden - 
               een schoenenbedrijf en waar mensen bijzonder belangrijk zijn. 
-              Het was crisistijd toen Diego Ballestero Rietveldt, Aryan Bhagwat, Yasin Coban, Daniel Kuiper, 
+              Het was crisistijd toen Diego Ballestero Rietveldt, Aryan Bhagwat, Yasin Coban, Daniel Kuiper en 
               Berkay Onal in 1929 hun eerste schoenenwinkel opende aan de Hoogstraat in Rotterdam. 
               Ze hadden een droom: zorgen dat iedereen goede, mooie schoenen kon dragen zonder hoge kosten. 
               Daarvoor werkte ze hard en verzonen ze slimme winkeloplossingen. 
