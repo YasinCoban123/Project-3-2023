@@ -48,7 +48,7 @@
 		
 		<main class="producten_main">
 			<div id= "shoe-list">
-			<div class="products" data-brand="nike" data-size="11" data-price="100">
+			<div class="products">
 				<div class="section_shoes">
 				<a href="schoen1.php"><img src="img/nikesockdartprem.webp" class="producten"></a>
 					<h3>Nike Sock Dart Premium</h3>
