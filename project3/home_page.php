@@ -22,7 +22,7 @@
     <div class="slideshow-container">
       <div class="my_slides">
         <img src="img/nikeairmaxalpha.png" class="schoen_slides">
-        <div id="schoen_tekst">Nike Air Max Alpha Smoke Grey</div>
+        <div id="schoen_tekst">Nike Air Max Alpha Smoke Gray</div>
         <div id="schoen_info">De Nike Air Max Alpha demping biedt comfortabele stabiliteit voor het tillen, 
           of het nu een lichte of zware dag is.</div>
         <button><a href="schoen2.php" class="koop_hier">Koop hier</a></button>
@@ -52,7 +52,7 @@
 
       <div class="my_slides">
         <img src="img/nikeairmaxalphatrainer.png" class="schoen_slides">
-        <div id="schoen_tekst">Nike Air Max Alpha Trainer 5 Grey</div>
+        <div id="schoen_tekst">Nike Air Max Alpha Trainer 5 Gray</div>
         <div id="schoen_info">Beëindig je laatste rep met kracht en rek het uit met een brul 
           die de vloer van de sportschool verbluft in de Nike Air Max Alpha Trainer 5.</div>
         <button><a href="schoen5.php" class="koop_hier">Koop hier</a></button>
