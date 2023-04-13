@@ -16,7 +16,7 @@
   <div class="schoenalles">
   <div class="schoentekst">
     <h2>Asics Gel-Cumulus 24</h2>
-    <p id="schoenprijs">Prijs: €119,99 </p>
+    <p id="schoenprijs">Prijs: € 119,99 </p>
     <p>Asics Gel-Cumulus 24 is een alledaagse schoen die is ontworpen om hardlopers een gedempte en comfortabele ervaring te bieden.</p>
   </div>
   <br>
