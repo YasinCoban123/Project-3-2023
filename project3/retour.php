@@ -14,15 +14,17 @@
         <article class="OverOnsArticle">
             <div class="retour_info">
             <h2 class="OverOnsH">SchoenReus Retourservice</h2>
-                <p class="retour_p">De bol.com retourservice biedt je een geautomatiseerd retourproces met
+                <p class="retour_p">De Schoenreus retourservice biedt je een geautomatiseerd retourproces met
                 lagere retourkosten per pakket.</p> </br> <br>
             <h2>SchoenReus vergoedt deels de retourkosten</h2>
             <div>
-                <p class="retour_p">Klanten kunnen de artikelen die ze kopen via bol.com altijd gratis 
-                retourneren. Echter zitten hier voor jou wel kosten aan verbonden en daarin willen we je graag tegemoet komen. Daarom bieden we een retourlabelservice aan, waarmee we de retourkosten deels vergoeden. Je schaft met deze service namelijk retourlabels aan voor brievenbuspakjes en pakketten tegen een voordelig tarief.
-                Let op! Gebruik maken van de bol.com retourservice is alleen mogelijk als de artikelen 
+                <p class="retour_p">Klanten kunnen de artikelen die ze kopen via Schoenreus altijd gratis 
+                retourneren. Echter zitten hier voor jou wel kosten aan verbonden en daarin willen we je graag tegemoet komen.
+                 Daarom bieden we een retourlabelservice aan, waarmee we de retourkosten deels vergoeden.
+                 Je schaft met deze service namelijk retourlabels aan voor brievenbuspakjes en pakketten tegen een voordelig tarief.
+                Let op! Gebruik maken van de Schoenreus retourservice is alleen mogelijk als de artikelen 
                 voldoen aan de afmetingen van de verzenddienst. Bij artikelen die te groot of te zwaar 
-                zijn, kan er geen bol.com retourlabel aangemaakt worden. Je dient dan zelf een label 
+                zijn, kan er geen Schoenreus retourlabel aangemaakt worden. Je dient dan zelf een label 
                 aan de klant te geven.</p>
                 </div> </br>
             </div>

@@ -52,7 +52,7 @@
 				<div class="section_shoes">
 				<a href="schoen1.php"><img src="img/nikesockdartprem.webp" class="producten"></a>
 					<h3>Nike Sock Dart Premium</h3>
-					<p>Deze sneakers van Nike trek je eenvoudig aan dankzij de elastische instap hebben ze een comfortabele pasvorm.</p>
+					<p>De Nike Sock Dart Premium is een comfortabele sneaker met een gestroomlijnd ontwerp en een sokachtige pasvorm, perfect voor dagelijks gebruik.</p>
 					<span>€89,99</span>
 				</div>
 				<div class="section_shoes">

@@ -17,8 +17,10 @@
   <div class="schoentekst">
     <h2>Nike Sock Dart Premium</h2>
     <p id="schoenprijs">Prijs: € 89,99 </p>
-    <p>Deze sneakers van Nike trek je eenvoudig aan dankzij de 
-      elastische instap hebben ze een comfortabele pasvorm.</p>
+    <p>De Nike Sock Dart Premium is een trendy en populaire sneaker die bekend staat om zijn minimalistische en gestroomlijnde ontwerp.
+       Het bovenwerk van textiel past zich aan de vorm van de voet aan, waardoor het gevoel van een sok ontstaat en zorgt voor een
+        optimale pasvorm. Bovendien biedt de Phylon tussenzool uitstekende demping en een lichtgewicht gevoel,
+       wat zorgt voor maximaal comfort gedurende de hele dag.</p>
   </div>
   <br>
   <div class="schoenmaten">
@@ -36,7 +38,7 @@
   <br>
   <div class="schoenkopenenwinkelwagen">
     <button id="schoenkoopnu">Koop nu</button>
-  <button><img src="img/winkelwagenicoon2.png" alt="" srcset=""></button>
+    <a href="winkelwagen.php"><button><img src="img/winkelwagenicoon2.png" alt="" srcset=""></button></a>
   </div>
   </div>
   <?php include 'footer.php' ?>
