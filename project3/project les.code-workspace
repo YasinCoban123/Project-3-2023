@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../p1-html-css/project les"
+		},
+		{
+			"path": "../../../../../javascript"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project les"
+	}
+}
